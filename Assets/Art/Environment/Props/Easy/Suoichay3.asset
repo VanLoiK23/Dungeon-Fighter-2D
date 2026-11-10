@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Suoichay3
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 1977454108, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: 45414059, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: -501735047, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: 803079936, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: -1267772665, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: 991519258, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: 517311990, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: -996237701, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: -56545467, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: 1178872442, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  - {fileID: -137954330, guid: ac375a12bdc9f804e9de42f26b42a42c, type: 3}
+  m_MinSpeed: 20
+  m_MaxSpeed: 20
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
