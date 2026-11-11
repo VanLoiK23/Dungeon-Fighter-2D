@@ -1,0 +1,5443 @@
+fileFormatVersion: 2
+guid: d5550857c3b4f0a458768332cd20633a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4295894127741771509
+    second: Laser Blue_0
+  - first:
+      213: -917496822053305069
+    second: Laser Blue_1
+  - first:
+      213: 478313359128146833
+    second: Laser Blue_2
+  - first:
+      213: -400134014211368473
+    second: Laser Blue_3
+  - first:
+      213: 7496898238398754771
+    second: Laser Blue_4
+  - first:
+      213: 5989327153605063490
+    second: Laser Blue_5
+  - first:
+      213: 3835802561123783464
+    second: Laser Blue_6
+  - first:
+      213: -4209135803063098422
+    second: Laser Blue_7
+  - first:
+      213: 2905917762567903370
+    second: Laser Blue_8
+  - first:
+      213: -1519612744957611485
+    second: Laser Blue_9
+  - first:
+      213: -7367434512020596933
+    second: Laser Blue_10
+  - first:
+      213: 7098928025423194192
+    second: Laser Blue_11
+  - first:
+      213: -7401584350837750261
+    second: Laser Blue_12
+  - first:
+      213: 3676914621931981458
+    second: Laser Blue_13
+  - first:
+      213: -8152754264419794667
+    second: Laser Blue_14
+  - first:
+      213: -3776159598852068962
+    second: Laser Blue_15
+  - first:
+      213: 2596788907508707826
+    second: Laser Blue_16
+  - first:
+      213: -1806151712516616367
+    second: Laser Blue_17
+  - first:
+      213: 6619751749133909064
+    second: Laser Blue_18
+  - first:
+      213: -4587109764402072235
+    second: Laser Blue_19
+  - first:
+      213: 4085770799577170108
+    second: Laser Blue_20
+  - first:
+      213: 811408307596004952
+    second: Laser Blue_21
+  - first:
+      213: -6532372555063048669
+    second: Laser Blue_22
+  - first:
+      213: -7279915594946625068
+    second: Laser Blue_23
+  - first:
+      213: 1781021182999536270
+    second: Laser Blue_24
+  - first:
+      213: 695235073151910857
+    second: Laser Blue_25
+  - first:
+      213: -5997628589203153897
+    second: Laser Blue_26
+  - first:
+      213: 4222952810326105670
+    second: Laser Blue_27
+  - first:
+      213: -2033307279120397776
+    second: Laser Blue_28
+  - first:
+      213: -4531702873710374783
+    second: Laser Blue_29
+  - first:
+      213: 2935608963914873131
+    second: Laser Blue_30
+  - first:
+      213: -6616367585074280723
+    second: Laser Blue_31
+  - first:
+      213: -1312239584002614753
+    second: Laser Blue_32
+  - first:
+      213: 396300515863738112
+    second: Laser Blue_33
+  - first:
+      213: 1212569209198499139
+    second: Laser Blue_34
+  - first:
+      213: -294110233001082836
+    second: Laser Blue_35
+  - first:
+      213: -201845275168556351
+    second: Laser Blue_36
+  - first:
+      213: -4106102146288241003
+    second: Laser Blue_37
+  - first:
+      213: -2729692061881156814
+    second: Laser Blue_38
+  - first:
+      213: 4978019105745559916
+    second: Laser Blue_39
+  - first:
+      213: 7695643230961689270
+    second: Laser Blue_40
+  - first:
+      213: 6800142390079656423
+    second: Laser Blue_41
+  - first:
+      213: 8228936008476965377
+    second: Laser Blue_42
+  - first:
+      213: 2402741126249323861
+    second: Laser Blue_43
+  - first:
+      213: -9152926054485242795
+    second: Laser Blue_44
+  - first:
+      213: -6083545407159143504
+    second: Laser Blue_45
+  - first:
+      213: -1121350444693029395
+    second: Laser Blue_46
+  - first:
+      213: 692783197126418721
+    second: Laser Blue_47
+  - first:
+      213: -6609875934402269566
+    second: Laser Blue_48
+  - first:
+      213: 30444226527502697
+    second: Laser Blue_49
+  - first:
+      213: 7171718876101263728
+    second: Laser Blue_50
+  - first:
+      213: -8769764506171065201
+    second: Laser Blue_51
+  - first:
+      213: -816194519616413036
+    second: Laser Blue_52
+  - first:
+      213: -5012890551849513253
+    second: Laser Blue_53
+  - first:
+      213: -1957815495595703052
+    second: Laser Blue_54
+  - first:
+      213: 2154140233600130627
+    second: Laser Blue_55
+  - first:
+      213: -298127160270476719
+    second: Laser Blue_56
+  - first:
+      213: 5595647685746740602
+    second: Laser Blue_57
+  - first:
+      213: -4189058168198054110
+    second: Laser Blue_58
+  - first:
+      213: 534765799809049731
+    second: Laser Blue_59
+  - first:
+      213: 6335141710443379668
+    second: Laser Blue_60
+  - first:
+      213: -7758498143774123020
+    second: Laser Blue_61
+  - first:
+      213: -4940657972238751477
+    second: Laser Blue_62
+  - first:
+      213: -1369625279193771903
+    second: Laser Blue_63
+  - first:
+      213: -8398507954342416153
+    second: Laser Blue_64
+  - first:
+      213: 5097063521808702109
+    second: Laser Blue_65
+  - first:
+      213: 738841127140524128
+    second: Laser Blue_66
+  - first:
+      213: -2845232092200828378
+    second: Laser Blue_67
+  - first:
+      213: -2762499522105510769
+    second: Laser Blue_68
+  - first:
+      213: 4909285174055678235
+    second: Laser Blue_69
+  - first:
+      213: 5564861835413897815
+    second: Laser Blue_70
+  - first:
+      213: -4581585706615417371
+    second: Laser Blue_71
+  - first:
+      213: -5658725135017052821
+    second: Laser Blue_72
+  - first:
+      213: -5965617582301069884
+    second: Laser Blue_73
+  - first:
+      213: -2778826883025390649
+    second: Laser Blue_74
+  - first:
+      213: -5503482656452822211
+    second: Laser Blue_75
+  - first:
+      213: -2564265788077837602
+    second: Laser Blue_76
+  - first:
+      213: 7731433590622030439
+    second: Laser Blue_77
+  - first:
+      213: 850234548274625465
+    second: Laser Blue_78
+  - first:
+      213: 7742675835686567610
+    second: Laser Blue_79
+  - first:
+      213: 6757791515297170639
+    second: Laser Blue_80
+  - first:
+      213: -6660533537225459743
+    second: Laser Blue_81
+  - first:
+      213: 8024142843133314827
+    second: Laser Blue_82
+  - first:
+      213: 6189319231818251980
+    second: Laser Blue_83
+  - first:
+      213: 8225317036738916509
+    second: Laser Blue_84
+  - first:
+      213: 819104019280372160
+    second: Laser Blue_85
+  - first:
+      213: 4805334290396118895
+    second: Laser Blue_86
+  - first:
+      213: 2565732932110778344
+    second: Laser Blue_87
+  - first:
+      213: -2962040636270088951
+    second: Laser Blue_88
+  - first:
+      213: -5878059106610505678
+    second: Laser Blue_89
+  - first:
+      213: -1252782421812866459
+    second: Laser Blue_90
+  - first:
+      213: 1049056532807311221
+    second: Laser Blue_91
+  - first:
+      213: -5194943676967775603
+    second: Laser Blue_92
+  - first:
+      213: 6473241921182222700
+    second: Laser Blue_93
+  - first:
+      213: -3644363468663246297
+    second: Laser Blue_94
+  - first:
+      213: 2041142529799501745
+    second: Laser Blue_95
+  - first:
+      213: 4244687071458756340
+    second: Laser Blue_96
+  - first:
+      213: 6280929470724485058
+    second: Laser Blue_97
+  - first:
+      213: -370947697044765073
+    second: Laser Blue_98
+  - first:
+      213: 7395909357724466132
+    second: Laser Blue_99
+  - first:
+      213: 3408781732299782406
+    second: Laser Blue_100
+  - first:
+      213: 6349033529576522567
+    second: Laser Blue_101
+  - first:
+      213: -3063403134067601949
+    second: Laser Blue_102
+  - first:
+      213: -8714581787906413730
+    second: Laser Blue_103
+  - first:
+      213: 8031206870652616077
+    second: Laser Blue_104
+  - first:
+      213: -2945226354497112441
+    second: Laser Blue_105
+  - first:
+      213: 9175528654733768611
+    second: Laser Blue_106
+  - first:
+      213: -2633184684630415474
+    second: Laser Blue_107
+  - first:
+      213: 2503265741900764740
+    second: Laser Blue_108
+  - first:
+      213: 807202994677990960
+    second: Laser Blue_109
+  - first:
+      213: 1190752196043512032
+    second: Laser Blue_110
+  - first:
+      213: -6877207135991883461
+    second: Laser Blue_111
+  - first:
+      213: 5556922836681693528
+    second: Laser Blue_112
+  - first:
+      213: 4924398755443188508
+    second: Laser Blue_113
+  - first:
+      213: -575466921667947122
+    second: Laser Blue_114
+  - first:
+      213: -7983191231726889725
+    second: Laser Blue_115
+  - first:
+      213: 484375760762042351
+    second: Laser Blue_116
+  - first:
+      213: -211010527414846825
+    second: Laser Blue_117
+  - first:
+      213: 3897496304931700525
+    second: Laser Blue_118
+  - first:
+      213: -1565095438783195236
+    second: Laser Blue_119
+  - first:
+      213: 2973976995820299059
+    second: Laser Blue_120
+  - first:
+      213: 2898888231473072087
+    second: Laser Blue_121
+  - first:
+      213: 7988372020867198281
+    second: Laser Blue_122
+  - first:
+      213: 8466196236054175938
+    second: Laser Blue_123
+  - first:
+      213: -814656511945336214
+    second: Laser Blue_124
+  - first:
+      213: -6416953474630587783
+    second: Laser Blue_125
+  - first:
+      213: 3166536502884422956
+    second: Laser Blue_126
+  - first:
+      213: -2427595877030899094
+    second: Laser Blue_127
+  - first:
+      213: 6376686829235596637
+    second: Laser Blue_128
+  - first:
+      213: 6391700846475449361
+    second: Laser Blue_129
+  - first:
+      213: 1344242273536178969
+    second: Laser Blue_130
+  - first:
+      213: 2196666164701827950
+    second: Laser Blue_131
+  - first:
+      213: 4552352479441183984
+    second: Laser Blue_132
+  - first:
+      213: 1845393204811157428
+    second: Laser Blue_133
+  - first:
+      213: 5956279585886819090
+    second: Laser Blue_134
+  - first:
+      213: 1050735915691689237
+    second: Laser Blue_135
+  - first:
+      213: -8465614808309401717
+    second: Laser Blue_136
+  - first:
+      213: -2131576945857468295
+    second: Laser Blue_137
+  - first:
+      213: -6654601293755621291
+    second: Laser Blue_138
+  - first:
+      213: -4750339412549803904
+    second: Laser Blue_139
+  - first:
+      213: -1206453646381406431
+    second: Laser Blue_140
+  - first:
+      213: -7916183915989266917
+    second: Laser Blue_141
+  - first:
+      213: -6466493172977916069
+    second: Laser Blue_142
+  - first:
+      213: 4539636799607777886
+    second: Laser Blue_143
+  - first:
+      213: -2482861904896971073
+    second: Laser Blue_144
+  - first:
+      213: -3758806140716704658
+    second: Laser Blue_145
+  - first:
+      213: 7714510925482873397
+    second: Laser Blue_146
+  - first:
+      213: -1971094736751098786
+    second: Laser Blue_147
+  - first:
+      213: -1365171045768978897
+    second: Laser Blue_148
+  - first:
+      213: -5467903733637605115
+    second: Laser Blue_149
+  - first:
+      213: -4995642692797705285
+    second: Laser Blue_150
+  - first:
+      213: 6905824841844329221
+    second: Laser Blue_151
+  - first:
+      213: 3793862721994821437
+    second: Laser Blue_152
+  - first:
+      213: 8980206552792343241
+    second: Laser Blue_153
+  - first:
+      213: -2194263095969808484
+    second: Laser Blue_154
+  - first:
+      213: 6115284423963307105
+    second: Laser Blue_155
+  - first:
+      213: 6196298238744708947
+    second: Laser Blue_156
+  - first:
+      213: 3764306172355570567
+    second: Laser Blue_157
+  - first:
+      213: 3464996708657375455
+    second: Laser Blue_158
+  - first:
+      213: 7376908838157025029
+    second: Laser Blue_159
+  - first:
+      213: 4116292370735537099
+    second: Laser Blue_160
+  - first:
+      213: -7952947907318169580
+    second: Laser Blue_161
+  - first:
+      213: 792420322665073394
+    second: Laser Blue_162
+  - first:
+      213: -7669879752741092399
+    second: Laser Blue_163
+  - first:
+      213: -4326827974748512199
+    second: Laser Blue_164
+  - first:
+      213: 1837854991981628066
+    second: Laser Blue_165
+  - first:
+      213: 273689030175831522
+    second: Laser Blue_166
+  - first:
+      213: -1168554372664735581
+    second: Laser Blue_167
+  - first:
+      213: -1196685805325290048
+    second: Laser Blue_168
+  - first:
+      213: 6552097767270539995
+    second: Laser Blue_169
+  - first:
+      213: 3439104727638038938
+    second: Laser Blue_170
+  - first:
+      213: -5960658104837709098
+    second: Laser Blue_171
+  - first:
+      213: 2073913499431598379
+    second: Laser Blue_172
+  - first:
+      213: 5982402137261140729
+    second: Laser Blue_173
+  - first:
+      213: 8679891740899563210
+    second: Laser Blue_174
+  - first:
+      213: -7384826979904227706
+    second: Laser Blue_175
+  - first:
+      213: 9171584871662826309
+    second: Laser Blue_176
+  - first:
+      213: -715519472863839219
+    second: Laser Blue_177
+  - first:
+      213: -8496602202790722666
+    second: Laser Blue_178
+  - first:
+      213: 7312976629789364432
+    second: Laser Blue_179
+  - first:
+      213: 4450781971840238150
+    second: Laser Blue_180
+  - first:
+      213: 4119746525522541895
+    second: Laser Blue_181
+  - first:
+      213: -1360228887233231582
+    second: Laser Blue_182
+  - first:
+      213: -5780054941581424345
+    second: Laser Blue_183
+  - first:
+      213: 1782255614805937862
+    second: Laser Blue_184
+  - first:
+      213: 5129875245203215101
+    second: Laser Blue_185
+  - first:
+      213: -2873197574976385568
+    second: Laser Blue_186
+  - first:
+      213: 5101795503363655451
+    second: Laser Blue_187
+  - first:
+      213: -1427671838595935667
+    second: Laser Blue_188
+  - first:
+      213: 6427835763704181340
+    second: Laser Blue_189
+  - first:
+      213: 6599995882234594667
+    second: Laser Blue_190
+  - first:
+      213: 8893187121940856840
+    second: Laser Blue_191
+  - first:
+      213: 283808999274754044
+    second: Laser Blue_192
+  - first:
+      213: -3767782405512572001
+    second: Laser Blue_193
+  - first:
+      213: -8767697143606710794
+    second: Laser Blue_194
+  - first:
+      213: 355774183396308765
+    second: Laser Blue_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laser Blue_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 646
+        width: 59
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e34b2d0be164c0800000000000000
+      internalID: -4295894127741771509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 744
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31586fe50856443f0800000000000000
+      internalID: -917496822053305069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 706
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933826477f43a600800000000000000
+      internalID: 478313359128146833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 704
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9516ceb30727af0800000000000000
+      internalID: -400134014211368473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 730
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df62014a355a0860800000000000000
+      internalID: 7496898238398754771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 680
+        width: 198
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433b3a305d5e1350800000000000000
+      internalID: 5989327153605063490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 680
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823115c3b128b3530800000000000000
+      internalID: 3835802561123783464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 730
+        width: 22
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ab0fb9452695c0800000000000000
+      internalID: -4209135803063098422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 704
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a889b501fc4e35820800000000000000
+      internalID: 2905917762567903370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32235ac724049eae0800000000000000
+      internalID: -1519612744957611485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 741
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371f0d785d91c990800000000000000
+      internalID: -7367434512020596933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 680
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582a696d65748260800000000000000
+      internalID: 7098928025423194192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_12
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 751
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06c9398f3a484990800000000000000
+      internalID: -7401584350837750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 741
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a02b51e56070330800000000000000
+      internalID: 3676914621931981458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_14
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 453
+        width: 140
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511053011399bde80800000000000000
+      internalID: -8152754264419794667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_15
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 720
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ad3f0ad2689bc0800000000000000
+      internalID: -3776159598852068962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_16
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 738
+        width: 108
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13bb4c0c5a90420800000000000000
+      internalID: 2596788907508707826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 738
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fcbfc36924fe6e0800000000000000
+      internalID: -1806151712516616367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_18
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 680
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb56494251edb50800000000000000
+      internalID: 6619751749133909064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_19
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 483
+        width: 111
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555b61b09ff4750c0800000000000000
+      internalID: -4587109764402072235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_20
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 419
+        width: 412
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0067615e293b830800000000000000
+      internalID: 4085770799577170108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_21
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 746
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8f068e83b24b00800000000000000
+      internalID: 811408307596004952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_22
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 674
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c4fa65c95855a0800000000000000
+      internalID: -6532372555063048669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 634
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d14168465b88fa90800000000000000
+      internalID: -7279915594946625068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 712
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e822226645577b810800000000000000
+      internalID: 1781021182999536270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 711
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3cc929d98f5a900800000000000000
+      internalID: 695235073151910857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_26
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 716
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c91dd239424cca0800000000000000
+      internalID: -5997628589203153897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_27
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 698
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e99b2f431fa9a30800000000000000
+      internalID: 4222952810326105670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 706
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a00d47dcd38c3e0800000000000000
+      internalID: -2033307279120397776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_29
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 286
+        width: 407
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18050e01f382c11c0800000000000000
+      internalID: -4531702873710374783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_30
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 698
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2939959cc06db820800000000000000
+      internalID: 2935608963914873131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_31
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 723
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de60d348cb0fd24a0800000000000000
+      internalID: -6616367585074280723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_32
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 712
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a51570d0df9cde0800000000000000
+      internalID: -1312239584002614753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_33
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 722
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bc503831ff7500800000000000000
+      internalID: 396300515863738112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_34
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 726
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455ad37549e3d010800000000000000
+      internalID: 1212569209198499139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 688
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c9252d4c1bebf0800000000000000
+      internalID: -294110233001082836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 702
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabcf9aac6e23df0800000000000000
+      internalID: -201845275168556351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 712
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596350f5ad13407c0800000000000000
+      internalID: -4106102146288241003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 686
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bbe51488f2e1ad0800000000000000
+      internalID: -2729692061881156814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_39
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 286
+        width: 361
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616213800a751540800000000000000
+      internalID: 4978019105745559916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_40
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 697
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b26c9bceba6cca60800000000000000
+      internalID: 7695643230961689270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_41
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 712
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e116ce9975fe5e50800000000000000
+      internalID: 6800142390079656423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_42
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 709
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ab0b073bd033270800000000000000
+      internalID: 8228936008476965377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_43
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 692
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d1055f250485120800000000000000
+      internalID: 2402741126249323861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_44
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c4dfa6f364af080800000000000000
+      internalID: -9152926054485242795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_45
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 709
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f1572fa7e29ba0800000000000000
+      internalID: -6083545407159143504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_46
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 708
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded785336b92070f0800000000000000
+      internalID: -1121350444693029395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_47
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 714
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216413b5a24d9900800000000000000
+      internalID: 692783197126418721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 692
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eac88bbd00544a0800000000000000
+      internalID: -6609875934402269566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 624
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96122abdcd82c6000800000000000000
+      internalID: 30444226527502697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 686
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071caf60250178360800000000000000
+      internalID: 7171718876101263728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_51
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 696
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c38d555a98b4680800000000000000
+      internalID: -8769764506171065201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 695
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a4a6a86b4ca4f0800000000000000
+      internalID: -816194519616413036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_53
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 674
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde091f3a92ae6ab0800000000000000
+      internalID: -5012890551849513253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_54
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 704
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f443410e2174d4e0800000000000000
+      internalID: -1957815495595703052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_55
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 677
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edc1c112b05ed10800000000000000
+      internalID: 2154140233600130627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_56
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 704
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aae226de6dcdbf0800000000000000
+      internalID: -298127160270476719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 679
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dcb255cebb7ad40800000000000000
+      internalID: 5595647685746740602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 676
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3b156ac97dd5c0800000000000000
+      internalID: -4189058168198054110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 663
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38465af59aedb6700800000000000000
+      internalID: 534765799809049731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 676
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbfcb412d1fae750800000000000000
+      internalID: 6335141710443379668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 286
+        width: 367
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd0d56b07445490800000000000000
+      internalID: -7758498143774123020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_62
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 676
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e10040c14f6bb0800000000000000
+      internalID: -4940657972238751477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 662
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180924ea01d1efce0800000000000000
+      internalID: -1369625279193771903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 680
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b0224381827b80800000000000000
+      internalID: -8398507954342416153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_65
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 656
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a520784486cb640800000000000000
+      internalID: 5097063521808702109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_66
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 624
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06009a03714e04a00800000000000000
+      internalID: 738841127140524128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_67
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 674
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62204d0ac74b388d0800000000000000
+      internalID: -2845232092200828378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_68
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 672
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f6bc2251a9a9d0800000000000000
+      internalID: -2762499522105510769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_69
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 673
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b113ea4fad8412440800000000000000
+      internalID: 4909285174055678235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_70
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 652
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75249fbfa5c5a3d40800000000000000
+      internalID: 5564861835413897815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_71
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 676
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55e29f210fa60c0800000000000000
+      internalID: -4581585706615417371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 467
+        width: 182
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65fbbd887b2871b0800000000000000
+      internalID: -5658725135017052821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 489
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbe158a6ed53da0800000000000000
+      internalID: -5965617582301069884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 644
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c337f83caf9f69d0800000000000000
+      internalID: -2778826883025390649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_75
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 638
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3b92cea3bf93b0800000000000000
+      internalID: -5503482656452822211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_76
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 485
+        width: 87
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2feef0ad5e96cd0800000000000000
+      internalID: -2564265788077837602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_77
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 626
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a8c8543e19b4b60800000000000000
+      internalID: 7731433590622030439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_78
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 632
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7ca121d3accb00800000000000000
+      internalID: 850234548274625465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_79
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 654
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe391d66a2837b60800000000000000
+      internalID: 7742675835686567610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_80
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 574
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4cf6f249f78cd50800000000000000
+      internalID: 6757791515297170639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_81
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 553
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7b91379080193a0800000000000000
+      internalID: -6660533537225459743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_82
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 546
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0744ffe66b7b5f60800000000000000
+      internalID: 8024142843133314827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 504
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce35068c01e4e550800000000000000
+      internalID: 6189319231818251980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 521
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90bacbe342362270800000000000000
+      internalID: 8225317036738916509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 521
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c12d4704ca0e5b00800000000000000
+      internalID: 819104019280372160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 528
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f701ec31affa240800000000000000
+      internalID: 4805334290396118895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_87
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 515
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effbf602805b9320800000000000000
+      internalID: 2565732932110778344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_88
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 515
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d69d02cb7b4e6d0800000000000000
+      internalID: -2962040636270088951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_89
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 515
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381bb5c260fc6ea0800000000000000
+      internalID: -5878059106610505678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_90
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 530
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5629dfe56093d9ee0800000000000000
+      internalID: -1252782421812866459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_91
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 500
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f5843cb5ffe8e00800000000000000
+      internalID: 1049056532807311221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_92
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 515
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829c22ff3ad7e7b0800000000000000
+      internalID: -5194943676967775603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 467
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69cb390b3395d950800000000000000
+      internalID: 6473241921182222700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_94
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 510
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bae1ebbe9c6dc0800000000000000
+      internalID: -3644363468663246297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_95
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 480
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b734a00158935c10800000000000000
+      internalID: 2041142529799501745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_96
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 489
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f60ef4f66828ea30800000000000000
+      internalID: 4244687071458756340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_97
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 512
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa0d963185a2750800000000000000
+      internalID: 6280929470724485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_98
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 499
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66c56fe8012adaf0800000000000000
+      internalID: -370947697044765073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_99
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 491
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db772a206c83a660800000000000000
+      internalID: 7395909357724466132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_100
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 501
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609b19eccec6e4f20800000000000000
+      internalID: 3408781732299782406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_101
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 505
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74304754b5c4c1850800000000000000
+      internalID: 6349033529576522567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_102
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 515
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0516841b9c75d0800000000000000
+      internalID: -3063403134067601949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_103
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 492
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5befb529069f0780800000000000000
+      internalID: -8714581787906413730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_104
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 503
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dfce20914947f60800000000000000
+      internalID: 8031206870652616077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_105
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 294
+        width: 137
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b41d2c347027d0800000000000000
+      internalID: -2945226354497112441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_106
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 487
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7f2db82b6065f70800000000000000
+      internalID: 9175528654733768611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_107
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 473
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ea940b7c057bd0800000000000000
+      internalID: -2633184684630415474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_108
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 489
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446566cede26db220800000000000000
+      internalID: 2503265741900764740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_109
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 481
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036c96fc8d2c33b00800000000000000
+      internalID: 807202994677990960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_110
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 481
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e890bc30d6668010800000000000000
+      internalID: 1190752196043512032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_111
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 459
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b391c6cfb804f80a0800000000000000
+      internalID: -6877207135991883461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_112
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 464
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591bacc0e72e1d40800000000000000
+      internalID: 5556922836681693528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_113
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 469
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132196d39af65440800000000000000
+      internalID: 4924398755443188508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_114
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 451
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859ef932e78308f0800000000000000
+      internalID: -575466921667947122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_115
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 451
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305d7ea1fd1063190800000000000000
+      internalID: -7983191231726889725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_116
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 369
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7f7062039d8b600800000000000000
+      internalID: 484375760762042351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_117
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 439
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af1951b07521df0800000000000000
+      internalID: -211010527414846825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_118
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 449
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ff9d05d30b61630800000000000000
+      internalID: 3897496304931700525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_119
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975ebb9df9a74ae0800000000000000
+      internalID: -1565095438783195236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_120
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 425
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336d062250b54920800000000000000
+      internalID: 2973976995820299059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_121
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 435
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74380dc7bea3820800000000000000
+      internalID: 2898888231473072087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 308
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d657d57066cde60800000000000000
+      internalID: 7988372020867198281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_123
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 363
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c022c0fe98fd7570800000000000000
+      internalID: 8466196236054175938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_124
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 341
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a1a87f732c1b4f0800000000000000
+      internalID: -814656511945336214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_125
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 369
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a6f6430d662f6a0800000000000000
+      internalID: -6416953474630587783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_126
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 343
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25dbbe1c2cc1fb20800000000000000
+      internalID: 3166536502884422956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_127
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 309
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62de5b69627f4ed0800000000000000
+      internalID: -2427595877030899094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_128
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 306
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5def74d2ea8e7850800000000000000
+      internalID: 6376686829235596637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_129
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149bb02e02e3b850800000000000000
+      internalID: 6391700846475449361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_130
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 335
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bff26c935b7a210800000000000000
+      internalID: 1344242273536178969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 345
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e631c250d302c7e10800000000000000
+      internalID: 2196666164701827950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_132
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 337
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e57de5743d2f30800000000000000
+      internalID: 4552352479441183984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_133
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf40bba7572c9910800000000000000
+      internalID: 1845393204811157428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_134
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 264
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d1b3c9b4f8a250800000000000000
+      internalID: 5956279585886819090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_135
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 318
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154c8f8fb6f49e00800000000000000
+      internalID: 1050735915691689237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_136
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 316
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b877e614f28148a80800000000000000
+      internalID: -8465614808309401717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_137
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e0c2bf0e1b62e0800000000000000
+      internalID: -2131576945857468295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_138
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55067d3816b16a3a0800000000000000
+      internalID: -6654601293755621291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_139
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 328
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806e600977631eb0800000000000000
+      internalID: -4750339412549803904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_140
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 328
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1272679fcc0d14fe0800000000000000
+      internalID: -1206453646381406431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_141
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 324
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8cce8ba0142290800000000000000
+      internalID: -7916183915989266917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_142
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 302
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a92a58b66246a0800000000000000
+      internalID: -6466493172977916069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa9e10e97000f30800000000000000
+      internalID: 4539636799607777886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_144
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 296
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2444904a1b8dd0800000000000000
+      internalID: -2482861904896971073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_145
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1603eab906dbc0800000000000000
+      internalID: -3758806140716704658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_146
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d64140d27f0b60800000000000000
+      internalID: 7714510925482873397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_147
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 308
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540f4db7c345a4e0800000000000000
+      internalID: -1971094736751098786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 310
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9a47ba20fd0de0800000000000000
+      internalID: -1365171045768978897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_149
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 304
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5099f72468a1e14b0800000000000000
+      internalID: -5467903733637605115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_150
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3540f5079ebaab0800000000000000
+      internalID: -4995642692797705285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_151
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 303
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b0333ea1b66df50800000000000000
+      internalID: 6905824841844329221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_152
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 303
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f091f7b0286a430800000000000000
+      internalID: 3793862721994821437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_153
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 300
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a2d4d74a10ac70800000000000000
+      internalID: 8980206552792343241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_154
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 296
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f78f407596c81e0800000000000000
+      internalID: -2194263095969808484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_155
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 288
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cefce88caddd450800000000000000
+      internalID: 6115284423963307105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_156
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 272
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c1c23b6cadf550800000000000000
+      internalID: 6196298238744708947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_157
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 304
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b601505808d3430800000000000000
+      internalID: 3764306172355570567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_158
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 296
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ab6fe524261030800000000000000
+      internalID: 3464996708657375455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_159
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff9c6f08b006660800000000000000
+      internalID: 7376908838157025029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_160
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 290
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb97552a12002930800000000000000
+      internalID: 4116292370735537099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_161
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 292
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104d1bc30471a190800000000000000
+      internalID: -7952947907318169580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_162
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 294
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa8045c51e3ffa00800000000000000
+      internalID: 792420322665073394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_163
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 288
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d308eb600d1f8590800000000000000
+      internalID: -7669879752741092399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 378
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93064e8a1e404f3c0800000000000000
+      internalID: -4326827974748512199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_165
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 15
+        width: 1130
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4eb9b06f518910800000000000000
+      internalID: 1837854991981628066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_166
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 272
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53d8e09b65cc300800000000000000
+      internalID: 273689030175831522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_167
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 39
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c6944df578cfe0800000000000000
+      internalID: -1168554372664735581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_168
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 228
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c575d1b994846fe0800000000000000
+      internalID: -1196685805325290048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_169
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 49
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd26acf643abdea50800000000000000
+      internalID: 6552097767270539995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_170
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 248
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995b3457872abf20800000000000000
+      internalID: 3439104727638038938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_171
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 255
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d26899d80d774da0800000000000000
+      internalID: -5960658104837709098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_172
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 252
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f184f65508cc10800000000000000
+      internalID: 2073913499431598379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_173
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 244
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faecf63c03c50350800000000000000
+      internalID: 5982402137261140729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_174
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 231
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac65a21ec8b257870800000000000000
+      internalID: 8679891740899563210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_175
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 156
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686761ffcf2d38990800000000000000
+      internalID: -7384826979904227706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_176
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 174
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433fcef8d3084f70800000000000000
+      internalID: 9171584871662826309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_177
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 134
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c731694d6f116f0800000000000000
+      internalID: -715519472863839219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_178
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938bd04051061a80800000000000000
+      internalID: -8496602202790722666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_179
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 95
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0145dbf79ec7560800000000000000
+      internalID: 7312976629789364432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64200444f9a54cd30800000000000000
+      internalID: 4450781971840238150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_181
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 120
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dbb6a33a74c2930800000000000000
+      internalID: 4119746525522541895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_182
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 111
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2250d3ba80f7f1de0800000000000000
+      internalID: -1360228887233231582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_183
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 111
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294cc897ae19cfa0800000000000000
+      internalID: -5780054941581424345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_184
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0473f908dbb810800000000000000
+      internalID: 1782255614805937862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_185
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 98
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df258643b5af03740800000000000000
+      internalID: 5129875245203215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 81
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc406470a5028d0800000000000000
+      internalID: -2873197574976385568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_187
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170da6daf73dc640800000000000000
+      internalID: 5101795503363655451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_188
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4219a4e604ef2ce0800000000000000
+      internalID: -1427671838595935667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_189
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 53
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b32a2292443950800000000000000
+      internalID: 6427835763704181340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_190
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 57
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6542af5945e79b50800000000000000
+      internalID: 6599995882234594667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_191
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 45
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8000d5cb192fa6b70800000000000000
+      internalID: 8893187121940856840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_192
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa4d9f7ca40f300800000000000000
+      internalID: 283808999274754044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_193
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 31
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d4706dd526bbc0800000000000000
+      internalID: -3767782405512572001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_194
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 37
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6d11b6e1e25680800000000000000
+      internalID: -8767697143606710794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_195
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17779d1cb6ffe400800000000000000
+      internalID: 355774183396308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_196
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 567
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f4fd89f9a20a46b5f4ad92f4967dc
+      internalID: -403951809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_197
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 527
+        width: 187
+        height: 169
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a3ea769f3a094e9bcce5cf931b2bb
+      internalID: -93189378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_198
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 525
+        width: 187
+        height: 169
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4403c045c6e04a84e6bde1c5ed932
+      internalID: -2131600818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_199
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 521
+        width: 259
+        height: 168
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c61ee6de407a4dac78922d1b711a0
+      internalID: 1817507888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_200
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810d0bf463695947a00c4c6dcae26c4
+      internalID: 851610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_201
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 137
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8d52f512b65743a0e8c120935ecd3
+      internalID: 1750123731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_202
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 130
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387aaa517c278374f9dfaaa61170cfb8
+      internalID: -407494046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_203
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 122
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22df0e5b2a2cb458f410f2ee5d1219
+      internalID: -1268335586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_204
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 128
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1140293e77bba44bf65fc31032913c
+      internalID: 783358605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser Blue_205
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 130
+        width: 354
+        height: 163
+      alignment: 9
+      pivot: {x: 4.607017, y: 0.9505263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cefb3e6c5dc1d47a99f768e6bc7a1e
+      internalID: 2110003265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Laser Blue_0: -4295894127741771509
+      Laser Blue_1: -917496822053305069
+      Laser Blue_10: -7367434512020596933
+      Laser Blue_100: 3408781732299782406
+      Laser Blue_101: 6349033529576522567
+      Laser Blue_102: -3063403134067601949
+      Laser Blue_103: -8714581787906413730
+      Laser Blue_104: 8031206870652616077
+      Laser Blue_105: -2945226354497112441
+      Laser Blue_106: 9175528654733768611
+      Laser Blue_107: -2633184684630415474
+      Laser Blue_108: 2503265741900764740
+      Laser Blue_109: 807202994677990960
+      Laser Blue_11: 7098928025423194192
+      Laser Blue_110: 1190752196043512032
+      Laser Blue_111: -6877207135991883461
+      Laser Blue_112: 5556922836681693528
+      Laser Blue_113: 4924398755443188508
+      Laser Blue_114: -575466921667947122
+      Laser Blue_115: -7983191231726889725
+      Laser Blue_116: 484375760762042351
+      Laser Blue_117: -211010527414846825
+      Laser Blue_118: 3897496304931700525
+      Laser Blue_119: -1565095438783195236
+      Laser Blue_12: -7401584350837750261
+      Laser Blue_120: 2973976995820299059
+      Laser Blue_121: 2898888231473072087
+      Laser Blue_122: 7988372020867198281
+      Laser Blue_123: 8466196236054175938
+      Laser Blue_124: -814656511945336214
+      Laser Blue_125: -6416953474630587783
+      Laser Blue_126: 3166536502884422956
+      Laser Blue_127: -2427595877030899094
+      Laser Blue_128: 6376686829235596637
+      Laser Blue_129: 6391700846475449361
+      Laser Blue_13: 3676914621931981458
+      Laser Blue_130: 1344242273536178969
+      Laser Blue_131: 2196666164701827950
+      Laser Blue_132: 4552352479441183984
+      Laser Blue_133: 1845393204811157428
+      Laser Blue_134: 5956279585886819090
+      Laser Blue_135: 1050735915691689237
+      Laser Blue_136: -8465614808309401717
+      Laser Blue_137: -2131576945857468295
+      Laser Blue_138: -6654601293755621291
+      Laser Blue_139: -4750339412549803904
+      Laser Blue_14: -8152754264419794667
+      Laser Blue_140: -1206453646381406431
+      Laser Blue_141: -7916183915989266917
+      Laser Blue_142: -6466493172977916069
+      Laser Blue_143: 4539636799607777886
+      Laser Blue_144: -2482861904896971073
+      Laser Blue_145: -3758806140716704658
+      Laser Blue_146: 7714510925482873397
+      Laser Blue_147: -1971094736751098786
+      Laser Blue_148: -1365171045768978897
+      Laser Blue_149: -5467903733637605115
+      Laser Blue_15: -3776159598852068962
+      Laser Blue_150: -4995642692797705285
+      Laser Blue_151: 6905824841844329221
+      Laser Blue_152: 3793862721994821437
+      Laser Blue_153: 8980206552792343241
+      Laser Blue_154: -2194263095969808484
+      Laser Blue_155: 6115284423963307105
+      Laser Blue_156: 6196298238744708947
+      Laser Blue_157: 3764306172355570567
+      Laser Blue_158: 3464996708657375455
+      Laser Blue_159: 7376908838157025029
+      Laser Blue_16: 2596788907508707826
+      Laser Blue_160: 4116292370735537099
+      Laser Blue_161: -7952947907318169580
+      Laser Blue_162: 792420322665073394
+      Laser Blue_163: -7669879752741092399
+      Laser Blue_164: -4326827974748512199
+      Laser Blue_165: 1837854991981628066
+      Laser Blue_166: 273689030175831522
+      Laser Blue_167: -1168554372664735581
+      Laser Blue_168: -1196685805325290048
+      Laser Blue_169: 6552097767270539995
+      Laser Blue_17: -1806151712516616367
+      Laser Blue_170: 3439104727638038938
+      Laser Blue_171: -5960658104837709098
+      Laser Blue_172: 2073913499431598379
+      Laser Blue_173: 5982402137261140729
+      Laser Blue_174: 8679891740899563210
+      Laser Blue_175: -7384826979904227706
+      Laser Blue_176: 9171584871662826309
+      Laser Blue_177: -715519472863839219
+      Laser Blue_178: -8496602202790722666
+      Laser Blue_179: 7312976629789364432
+      Laser Blue_18: 6619751749133909064
+      Laser Blue_180: 4450781971840238150
+      Laser Blue_181: 4119746525522541895
+      Laser Blue_182: -1360228887233231582
+      Laser Blue_183: -5780054941581424345
+      Laser Blue_184: 1782255614805937862
+      Laser Blue_185: 5129875245203215101
+      Laser Blue_186: -2873197574976385568
+      Laser Blue_187: 5101795503363655451
+      Laser Blue_188: -1427671838595935667
+      Laser Blue_189: 6427835763704181340
+      Laser Blue_19: -4587109764402072235
+      Laser Blue_190: 6599995882234594667
+      Laser Blue_191: 8893187121940856840
+      Laser Blue_192: 283808999274754044
+      Laser Blue_193: -3767782405512572001
+      Laser Blue_194: -8767697143606710794
+      Laser Blue_195: 355774183396308765
+      Laser Blue_196: -403951809
+      Laser Blue_197: -93189378
+      Laser Blue_198: -2131600818
+      Laser Blue_199: 1817507888
+      Laser Blue_2: 478313359128146833
+      Laser Blue_20: 4085770799577170108
+      Laser Blue_200: 851610980
+      Laser Blue_201: 1750123731
+      Laser Blue_202: -407494046
+      Laser Blue_203: -1268335586
+      Laser Blue_204: 783358605
+      Laser Blue_205: 2110003265
+      Laser Blue_21: 811408307596004952
+      Laser Blue_22: -6532372555063048669
+      Laser Blue_23: -7279915594946625068
+      Laser Blue_24: 1781021182999536270
+      Laser Blue_25: 695235073151910857
+      Laser Blue_26: -5997628589203153897
+      Laser Blue_27: 4222952810326105670
+      Laser Blue_28: -2033307279120397776
+      Laser Blue_29: -4531702873710374783
+      Laser Blue_3: -400134014211368473
+      Laser Blue_30: 2935608963914873131
+      Laser Blue_31: -6616367585074280723
+      Laser Blue_32: -1312239584002614753
+      Laser Blue_33: 396300515863738112
+      Laser Blue_34: 1212569209198499139
+      Laser Blue_35: -294110233001082836
+      Laser Blue_36: -201845275168556351
+      Laser Blue_37: -4106102146288241003
+      Laser Blue_38: -2729692061881156814
+      Laser Blue_39: 4978019105745559916
+      Laser Blue_4: 7496898238398754771
+      Laser Blue_40: 7695643230961689270
+      Laser Blue_41: 6800142390079656423
+      Laser Blue_42: 8228936008476965377
+      Laser Blue_43: 2402741126249323861
+      Laser Blue_44: -9152926054485242795
+      Laser Blue_45: -6083545407159143504
+      Laser Blue_46: -1121350444693029395
+      Laser Blue_47: 692783197126418721
+      Laser Blue_48: -6609875934402269566
+      Laser Blue_49: 30444226527502697
+      Laser Blue_5: 5989327153605063490
+      Laser Blue_50: 7171718876101263728
+      Laser Blue_51: -8769764506171065201
+      Laser Blue_52: -816194519616413036
+      Laser Blue_53: -5012890551849513253
+      Laser Blue_54: -1957815495595703052
+      Laser Blue_55: 2154140233600130627
+      Laser Blue_56: -298127160270476719
+      Laser Blue_57: 5595647685746740602
+      Laser Blue_58: -4189058168198054110
+      Laser Blue_59: 534765799809049731
+      Laser Blue_6: 3835802561123783464
+      Laser Blue_60: 6335141710443379668
+      Laser Blue_61: -7758498143774123020
+      Laser Blue_62: -4940657972238751477
+      Laser Blue_63: -1369625279193771903
+      Laser Blue_64: -8398507954342416153
+      Laser Blue_65: 5097063521808702109
+      Laser Blue_66: 738841127140524128
+      Laser Blue_67: -2845232092200828378
+      Laser Blue_68: -2762499522105510769
+      Laser Blue_69: 4909285174055678235
+      Laser Blue_7: -4209135803063098422
+      Laser Blue_70: 5564861835413897815
+      Laser Blue_71: -4581585706615417371
+      Laser Blue_72: -5658725135017052821
+      Laser Blue_73: -5965617582301069884
+      Laser Blue_74: -2778826883025390649
+      Laser Blue_75: -5503482656452822211
+      Laser Blue_76: -2564265788077837602
+      Laser Blue_77: 7731433590622030439
+      Laser Blue_78: 850234548274625465
+      Laser Blue_79: 7742675835686567610
+      Laser Blue_8: 2905917762567903370
+      Laser Blue_80: 6757791515297170639
+      Laser Blue_81: -6660533537225459743
+      Laser Blue_82: 8024142843133314827
+      Laser Blue_83: 6189319231818251980
+      Laser Blue_84: 8225317036738916509
+      Laser Blue_85: 819104019280372160
+      Laser Blue_86: 4805334290396118895
+      Laser Blue_87: 2565732932110778344
+      Laser Blue_88: -2962040636270088951
+      Laser Blue_89: -5878059106610505678
+      Laser Blue_9: -1519612744957611485
+      Laser Blue_90: -1252782421812866459
+      Laser Blue_91: 1049056532807311221
+      Laser Blue_92: -5194943676967775603
+      Laser Blue_93: 6473241921182222700
+      Laser Blue_94: -3644363468663246297
+      Laser Blue_95: 2041142529799501745
+      Laser Blue_96: 4244687071458756340
+      Laser Blue_97: 6280929470724485058
+      Laser Blue_98: -370947697044765073
+      Laser Blue_99: 7395909357724466132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
