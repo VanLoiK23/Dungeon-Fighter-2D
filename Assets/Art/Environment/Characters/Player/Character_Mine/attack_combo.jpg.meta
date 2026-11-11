@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 02da7e61a1a99df4c80545f6b67ad0b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 888792015946110649
+    second: attack_combo_0
+  - first:
+      213: -1158413185388982537
+    second: attack_combo_1
+  - first:
+      213: -894499254179911162
+    second: attack_combo_2
+  - first:
+      213: 2106474436327176211
+    second: attack_combo_3
+  - first:
+      213: 7463850323358636474
+    second: attack_combo_4
+  - first:
+      213: 755830579755420362
+    second: attack_combo_5
+  - first:
+      213: -6041342924874010779
+    second: attack_combo_6
+  - first:
+      213: 5945849488237968608
+    second: attack_combo_7
+  - first:
+      213: 2293163674914983535
+    second: attack_combo_8
+  - first:
+      213: 1503563083117005431
+    second: attack_combo_9
+  - first:
+      213: 8262398913703333558
+    second: attack_combo_10
+  - first:
+      213: 3422789346082374977
+    second: attack_combo_11
+  - first:
+      213: -1481844747696238747
+    second: attack_combo_12
+  - first:
+      213: -8300703413281850770
+    second: attack_combo_13
+  - first:
+      213: -5875398547188994122
+    second: attack_combo_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_combo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 311
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.60320044, y: 0.03875678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6dba521af955c00800000000000000
+      internalID: 888792015946110649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 311
+        width: 71
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5985288, y: 0.04356139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec2cd685d7cefe0800000000000000
+      internalID: -1158413185388982537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 311
+        width: 85
+        height: 112
+      alignment: 9
+      pivot: {x: 0.45568416, y: 0.048366003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a21c6eaa91693f0800000000000000
+      internalID: -894499254179911162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 311
+        width: 92
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41811237, y: 0.03875678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f8b9d653bb3d10800000000000000
+      internalID: 2106474436327176211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 84
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4167197, y: 0.057975225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d97ce25ce49760800000000000000
+      internalID: 7463850323358636474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 180
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6724734, y: 0.043770336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca03b068ef3d7a00800000000000000
+      internalID: 755830579755420362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 180
+        width: 82
+        height: 92
+      alignment: 9
+      pivot: {x: 0.63780993, y: 0.055468682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fa0944e96d82ca0800000000000000
+      internalID: -6041342924874010779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 181
+        width: 104
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4948258, y: 0.04467019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbc5a6b96e38250800000000000000
+      internalID: 5945849488237968608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 76
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5283219, y: 0.080150396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e032f6634f2df10800000000000000
+      internalID: 2293163674914983535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 182
+        width: 91
+        height: 90
+      alignment: 9
+      pivot: {x: 0.48226023, y: 0.05156911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a849a68aabdd410800000000000000
+      internalID: 1503563083117005431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 83
+        height: 101
+      alignment: 9
+      pivot: {x: 0.59724987, y: 0.047129527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be4cd33900f9a270800000000000000
+      internalID: 8262398913703333558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 66
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5815328, y: 0.042600784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1454b3a86c0308f20800000000000000
+      internalID: 3422789346082374977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 47
+        width: 92
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.035025105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f89499d0e6f6be0800000000000000
+      internalID: -1481844747696238747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 30
+        width: 66
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47553968, y: 0.04836624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a7671893afdcc80800000000000000
+      internalID: -8300703413281850770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_combo_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 14
+        width: 114
+        height: 105
+      alignment: 9
+      pivot: {x: 0.43863532, y: 0.054132044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf24f88624667ea0800000000000000
+      internalID: -5875398547188994122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 667e496fd75afe04087bd4c5219b2f8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attack_combo_0: 888792015946110649
+      attack_combo_1: -1158413185388982537
+      attack_combo_10: 8262398913703333558
+      attack_combo_11: 3422789346082374977
+      attack_combo_12: -1481844747696238747
+      attack_combo_13: -8300703413281850770
+      attack_combo_14: -5875398547188994122
+      attack_combo_2: -894499254179911162
+      attack_combo_3: 2106474436327176211
+      attack_combo_4: 7463850323358636474
+      attack_combo_5: 755830579755420362
+      attack_combo_6: -6041342924874010779
+      attack_combo_7: 5945849488237968608
+      attack_combo_8: 2293163674914983535
+      attack_combo_9: 1503563083117005431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

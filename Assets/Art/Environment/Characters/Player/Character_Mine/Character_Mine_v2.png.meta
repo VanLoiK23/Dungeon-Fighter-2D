@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: bc305043f0ec4a0439c499fea44a50ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1050392668267191450
+    second: Character_Mine_v2_0
+  - first:
+      213: 1367753121021643892
+    second: Character_Mine_v2_1
+  - first:
+      213: 358320993604665908
+    second: Character_Mine_v2_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_Mine_v2_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 553
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6636245fe614c61f0800000000000000
+      internalID: -1050392668267191450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 554
+        width: 164
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4de6873c3bf210800000000000000
+      internalID: 1367753121021643892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 552
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4320f539b0309f400800000000000000
+      internalID: 358320993604665908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 550
+        width: 218
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893f6db3f65d2545b4843d89f62f89d
+      internalID: -1310691609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 552
+        width: 138
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8585102937bf4298804e88195d7b8
+      internalID: -1152391613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 547
+        width: 156
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9482dc5e555bf0e42805bfa7c291fa9d
+      internalID: 243576534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 550
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71e614193a1f540aaca1d81dd9c0fd
+      internalID: 1249290885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 545
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef598187b211e44fa3261798c5cccbe
+      internalID: 397569827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 710
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949fff47cc974b24fb7d11140881639c
+      internalID: 868098130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 714
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd2e18634d72948a7221a038b6bc6e
+      internalID: -565693419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 710
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48d2a76adef4741916b22734a9f2ed
+      internalID: -488735507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 732
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db4028977e9e14fa971d6abd1775d2
+      internalID: 1743675905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 708
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92a8dd5e756ef41ab6a8a8a5055101
+      internalID: -1197188674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 705
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278f736965a2ee41a6dad38f4983c26
+      internalID: 978319435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 699
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5cf5481306b834bb2d71541355f6ba
+      internalID: -2135383031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 705
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea9e09da9e9f8a4ab8c42e05b53dfff
+      internalID: 638981812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_16
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 705
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd2c9f59963394bbdd51a7a95a0753
+      internalID: -1180817934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 705
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb136497921fb4fa3e3a6ed176bcfb
+      internalID: 1663730225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 703
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27465310e9e4c948af1614d57a0b38b
+      internalID: 1346514155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 387
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca3171520a441d4aabdaeedaa53f0f2
+      internalID: -1889253111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 390
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e144cda05abd23044adea4dd7b952785
+      internalID: 106121136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 391
+        width: 179
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5bd68bcfc26d4b9bde2b3de9f9c31
+      internalID: 694097473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 393
+        width: 136
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3ade5a7a756448a7fe2e3e2b1b994
+      internalID: 19888391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 389
+        width: 255
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f22360d6939a4cbde68df23c69bfd
+      internalID: -1211935178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_24
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 391
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf6f436b15e6643aaa07f0955d73b0
+      internalID: 1002727381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_25
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 393
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9070376861cc6c1419ea73e71192d70a
+      internalID: -68447345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_26
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 390
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539e52d7426b9a4c8c01d9c3983bc2d
+      internalID: 2114946848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 381
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73acc46d1ff8e9d408ba389b57e8c074
+      internalID: -734740417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_28
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 383
+        width: 218
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fcd48265cc9642896ec7c6f9824b7
+      internalID: 1352021345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 30
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fbad23436c2f4d947eda1f86bec14
+      internalID: -86986696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 31
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b18e35ef3e73c0419f1ab65ee624dbb
+      internalID: -308662241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd571dc93a14fd4d910795bd7ed5191
+      internalID: -306919046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f9372b740e114488d5833301bad30a
+      internalID: 83055677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_33
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 32
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332eda87235476d4690629d7b9289891
+      internalID: 1307259536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_34
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 31
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e4ffeadaf1a549b44f3913eb66aa9
+      internalID: 1133781531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 35
+        width: 108
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78476dbdcc864bd42a1f6b83247ddd74
+      internalID: -1534383817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 35
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390b6249ece27e43be86fca564e21ff
+      internalID: -746292075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_37
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 23
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca73e55522cfd742a752a7f4a848c1f
+      internalID: 30307971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 25
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11673604f6d9a046a8a0c37498da176
+      internalID: -171554729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_39
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 24
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3cb2eb07758e748965183254ae85ec
+      internalID: -1411810637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_40
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 27
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff7f9d0448866479378ebe55fede8b
+      internalID: -898955176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 548
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e885e9034c6d4f8111e5f8451e68a
+      internalID: 529969941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 878
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d2452a26b7d24c9507d8b2f953317
+      internalID: -886175169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 878
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e1001bd7fe3f248811ced8c9dc9000
+      internalID: -1243950444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 880
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ef4c59fc6ac2498ff0e260ec2bb42
+      internalID: -1958849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 878
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4565d1ca0c2547a14b044ae7d7999
+      internalID: 643739639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 874
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd573cebd466824097d2d3f6bccd544
+      internalID: -1987428091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 876
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751bf2f3b4101045ae8e8cf47278451
+      internalID: -599955340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 880
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f243b5e8562c46a904e2b08259b0d
+      internalID: -1434109176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 881
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe78d5fdb0bc24395fd4c086fad1a2
+      internalID: 1874022012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 882
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78796642eb88cda429c22508dc904a2a
+      internalID: -1270739622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_51
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 880
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928966e014a065146894e217eab01e0c
+      internalID: 868427252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 881
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6701eabb5937764e9a874de5aab516e
+      internalID: 1486207873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_53
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 881
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c89236c8f668448b54031ce4ba093
+      internalID: -863807997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_54
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 880
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb419c333bdf8944d97f2956925cec96
+      internalID: -1659046448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_55
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 879
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856d7f9ba27fc14995df22e1eef0a3e
+      internalID: 340266631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_56
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 879
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91328a77a067eee499b56e1ddeb90e03
+      internalID: -1080543681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_57
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 878
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aceada32731ccd4e86188806ebc9b44
+      internalID: -1041825784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_58
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 878
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24680554dbcf54f499556e1602f0613d
+      internalID: -1104374502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_59
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 878
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec6d3fa577233c40bce71ca918b4e51
+      internalID: -904864562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_60
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 701
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a17c5de1d622948b1856758bf624b1
+      internalID: 1975145243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_61
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 700
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d06e174e2dd44491ee96e982b66ad
+      internalID: -1777545899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Mine_v2_62
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 702
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a80452d83e6342bde095ce65e1480
+      internalID: -1419931095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3967b3d1f0655d746b43d74bb18218bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character_Mine_v2_0: -1050392668267191450
+      Character_Mine_v2_1: 1367753121021643892
+      Character_Mine_v2_10: -488735507
+      Character_Mine_v2_11: 1743675905
+      Character_Mine_v2_12: -1197188674
+      Character_Mine_v2_13: 978319435
+      Character_Mine_v2_14: -2135383031
+      Character_Mine_v2_15: 638981812
+      Character_Mine_v2_16: -1180817934
+      Character_Mine_v2_17: 1663730225
+      Character_Mine_v2_18: 1346514155
+      Character_Mine_v2_19: -1889253111
+      Character_Mine_v2_2: 358320993604665908
+      Character_Mine_v2_20: 106121136
+      Character_Mine_v2_21: 694097473
+      Character_Mine_v2_22: 19888391
+      Character_Mine_v2_23: -1211935178
+      Character_Mine_v2_24: 1002727381
+      Character_Mine_v2_25: -68447345
+      Character_Mine_v2_26: 2114946848
+      Character_Mine_v2_27: -734740417
+      Character_Mine_v2_28: 1352021345
+      Character_Mine_v2_29: -86986696
+      Character_Mine_v2_3: -1310691609
+      Character_Mine_v2_30: -308662241
+      Character_Mine_v2_31: -306919046
+      Character_Mine_v2_32: 83055677
+      Character_Mine_v2_33: 1307259536
+      Character_Mine_v2_34: 1133781531
+      Character_Mine_v2_35: -1534383817
+      Character_Mine_v2_36: -746292075
+      Character_Mine_v2_37: 30307971
+      Character_Mine_v2_38: -171554729
+      Character_Mine_v2_39: -1411810637
+      Character_Mine_v2_4: -1152391613
+      Character_Mine_v2_40: -898955176
+      Character_Mine_v2_41: 529969941
+      Character_Mine_v2_42: -886175169
+      Character_Mine_v2_43: -1243950444
+      Character_Mine_v2_44: -1958849978
+      Character_Mine_v2_45: 643739639
+      Character_Mine_v2_46: -1987428091
+      Character_Mine_v2_47: -599955340
+      Character_Mine_v2_48: -1434109176
+      Character_Mine_v2_49: 1874022012
+      Character_Mine_v2_5: 243576534
+      Character_Mine_v2_50: -1270739622
+      Character_Mine_v2_51: 868427252
+      Character_Mine_v2_52: 1486207873
+      Character_Mine_v2_53: -863807997
+      Character_Mine_v2_54: -1659046448
+      Character_Mine_v2_55: 340266631
+      Character_Mine_v2_56: -1080543681
+      Character_Mine_v2_57: -1041825784
+      Character_Mine_v2_58: -1104374502
+      Character_Mine_v2_59: -904864562
+      Character_Mine_v2_6: 1249290885
+      Character_Mine_v2_60: 1975145243
+      Character_Mine_v2_61: -1777545899
+      Character_Mine_v2_62: -1419931095
+      Character_Mine_v2_7: 397569827
+      Character_Mine_v2_8: 868098130
+      Character_Mine_v2_9: -565693419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

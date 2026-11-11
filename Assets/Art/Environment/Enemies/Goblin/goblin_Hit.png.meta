@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 1c924fdb19ae31d43a21b448b9ab1fef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -665039127406003751
+    second: goblin_Hit_0
+  - first:
+      213: -2540605959915632236
+    second: goblin_Hit_1
+  - first:
+      213: -3927389313882452348
+    second: goblin_Hit_2
+  - first:
+      213: -8505234456999518812
+    second: goblin_Hit_3
+  - first:
+      213: -502353843535506101
+    second: goblin_Hit_4
+  - first:
+      213: -5848338090578491673
+    second: goblin_Hit_5
+  - first:
+      213: 38419290175374027
+    second: goblin_Hit_6
+  - first:
+      213: 3782663661179744766
+    second: goblin_Hit_7
+  - first:
+      213: -4681586648986494786
+    second: goblin_Hit_8
+  - first:
+      213: -6271893446922968232
+    second: goblin_Hit_9
+  - first:
+      213: 932552876263684032
+    second: goblin_Hit_10
+  - first:
+      213: -3378723764544648407
+    second: goblin_Hit_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 13
+        width: 186
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5059312, y: 0.05144159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ba39ef6e45c6f0800000000000000
+      internalID: -665039127406003751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 14
+        width: 201
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5109772, y: 0.042868376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4990df41754fdbcd0800000000000000
+      internalID: -2540605959915632236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 161
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5205567, y: 0.05144159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0f5b2a3c1f79c0800000000000000
+      internalID: -3927389313882452348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 183
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4638295, y: 0.031597458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9123f25657f980800000000000000
+      internalID: -8505234456999518812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 13
+        width: 167
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5858794, y: 0.06356482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45938447d74709f0800000000000000
+      internalID: -502353843535506101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 15
+        width: 163
+        height: 177
+      alignment: 9
+      pivot: {x: 0.57445014, y: 0.057469115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6cea01e7786dea0800000000000000
+      internalID: -5848338090578491673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 13
+        width: 153
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06356482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20d6f042e788000800000000000000
+      internalID: 38419290175374027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 13
+        width: 181
+        height: 178
+      alignment: 9
+      pivot: {x: 0.48780984, y: 0.059955448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d2f13fb9a70fb0800000000000000
+      internalID: -4681586648986494786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 99
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b452c23ac5c11d0800000000000000
+      internalID: -3378723764544648407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7a2893a899bf6b42b1e2a8c94e9f712
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin_Hit_0: -665039127406003751
+      goblin_Hit_1: -2540605959915632236
+      goblin_Hit_10: 932552876263684032
+      goblin_Hit_11: -3378723764544648407
+      goblin_Hit_2: -3927389313882452348
+      goblin_Hit_3: -8505234456999518812
+      goblin_Hit_4: -502353843535506101
+      goblin_Hit_5: -5848338090578491673
+      goblin_Hit_6: 38419290175374027
+      goblin_Hit_7: 3782663661179744766
+      goblin_Hit_8: -4681586648986494786
+      goblin_Hit_9: -6271893446922968232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
