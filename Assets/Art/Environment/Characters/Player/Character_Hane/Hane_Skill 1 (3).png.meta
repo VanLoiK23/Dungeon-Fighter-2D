@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 8f622910a33f1dd40b825766219dfa0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6440369641259510644
+    second: Hane_Skill 1 (3)_0
+  - first:
+      213: 325076786882364896
+    second: Hane_Skill 1 (3)_1
+  - first:
+      213: -2575289736208573939
+    second: Hane_Skill 1 (3)_2
+  - first:
+      213: 1518008063070858244
+    second: Hane_Skill 1 (3)_3
+  - first:
+      213: -7848799437478302175
+    second: Hane_Skill 1 (3)_4
+  - first:
+      213: -8945012643894429658
+    second: Hane_Skill 1 (3)_5
+  - first:
+      213: -8374891345918379035
+    second: Hane_Skill 1 (3)_6
+  - first:
+      213: -5470228397270579404
+    second: Hane_Skill 1 (3)_7
+  - first:
+      213: -7695528533372002217
+    second: Hane_Skill 1 (3)_8
+  - first:
+      213: -2785010931031675285
+    second: Hane_Skill 1 (3)_9
+  - first:
+      213: -8668475388617087640
+    second: Hane_Skill 1 (3)_10
+  - first:
+      213: 1833597963445737522
+    second: Hane_Skill 1 (3)_11
+  - first:
+      213: 6636524340031671854
+    second: Hane_Skill 1 (3)_12
+  - first:
+      213: -5095331134491544399
+    second: Hane_Skill 1 (3)_13
+  - first:
+      213: 8008604335388370925
+    second: Hane_Skill 1 (3)_14
+  - first:
+      213: -1358119018345411104
+    second: Hane_Skill 1 (3)_15
+  - first:
+      213: 3036646217055366698
+    second: Hane_Skill 1 (3)_16
+  - first:
+      213: 5331321562308579535
+    second: Hane_Skill 1 (3)_17
+  - first:
+      213: -6645478068869717871
+    second: Hane_Skill 1 (3)_18
+  - first:
+      213: 395300228914252416
+    second: Hane_Skill 1 (3)_19
+  - first:
+      213: -3458237779660214469
+    second: Hane_Skill 1 (3)_20
+  - first:
+      213: -3505770722709083056
+    second: Hane_Skill 1 (3)_21
+  - first:
+      213: 6307441045972132396
+    second: Hane_Skill 1 (3)_22
+  - first:
+      213: 7217250240074461060
+    second: Hane_Skill 1 (3)_23
+  - first:
+      213: -1149712925844407331
+    second: Hane_Skill 1 (3)_24
+  - first:
+      213: 3505793739632407647
+    second: Hane_Skill 1 (3)_25
+  - first:
+      213: 1731462450011208301
+    second: Hane_Skill 1 (3)_26
+  - first:
+      213: 3257950679929285297
+    second: Hane_Skill 1 (3)_27
+  - first:
+      213: 7817983146346834583
+    second: Hane_Skill 1 (3)_28
+  - first:
+      213: -8083054309152785788
+    second: Hane_Skill 1 (3)_29
+  - first:
+      213: 1014698933496390036
+    second: Hane_Skill 1 (3)_30
+  - first:
+      213: -4229950751097477728
+    second: Hane_Skill 1 (3)_31
+  - first:
+      213: -8133388746605218921
+    second: Hane_Skill 1 (3)_32
+  - first:
+      213: -1574338674979947182
+    second: Hane_Skill 1 (3)_33
+  - first:
+      213: -6419484596959921767
+    second: Hane_Skill 1 (3)_34
+  - first:
+      213: -3383115846642208254
+    second: Hane_Skill 1 (3)_35
+  - first:
+      213: 2625375764346378873
+    second: Hane_Skill 1 (3)_36
+  - first:
+      213: -3184617634287274507
+    second: Hane_Skill 1 (3)_37
+  - first:
+      213: 4165115004488318745
+    second: Hane_Skill 1 (3)_38
+  - first:
+      213: -2008020710824792241
+    second: Hane_Skill 1 (3)_39
+  - first:
+      213: 4371865706815301277
+    second: Hane_Skill 1 (3)_40
+  - first:
+      213: -692966738320024354
+    second: Hane_Skill 1 (3)_41
+  - first:
+      213: -5666799695990846561
+    second: Hane_Skill 1 (3)_42
+  - first:
+      213: -4450919123915692188
+    second: Hane_Skill 1 (3)_43
+  - first:
+      213: -8560388801632148978
+    second: Hane_Skill 1 (3)_44
+  - first:
+      213: -5717697660733655507
+    second: Hane_Skill 1 (3)_45
+  - first:
+      213: -5083554097463729192
+    second: Hane_Skill 1 (3)_46
+  - first:
+      213: -7450619683380671447
+    second: Hane_Skill 1 (3)_47
+  - first:
+      213: -684258763191792326
+    second: Hane_Skill 1 (3)_48
+  - first:
+      213: 954164943822232915
+    second: Hane_Skill 1 (3)_49
+  - first:
+      213: -7747380477513765547
+    second: Hane_Skill 1 (3)_50
+  - first:
+      213: 6574983001702373888
+    second: Hane_Skill 1 (3)_51
+  - first:
+      213: -8272857373141296968
+    second: Hane_Skill 1 (3)_52
+  - first:
+      213: 7348043244543291362
+    second: Hane_Skill 1 (3)_53
+  - first:
+      213: -4740795350003631399
+    second: Hane_Skill 1 (3)_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84548e0fe53f96a0800000000000000
+      internalID: -6440369641259510644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 943
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e549d68d97e28400800000000000000
+      internalID: 325076786882364896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 950
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a149f11abb24cd0800000000000000
+      internalID: -2575289736208573939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 987
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c64856a4c011510800000000000000
+      internalID: 1518008063070858244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 972
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ee1df0f76731390800000000000000
+      internalID: -7848799437478302175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 981
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287b41a46eecd380800000000000000
+      internalID: -8945012643894429658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 505
+        width: 1280
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebba0661b866cb80800000000000000
+      internalID: -8374891345918379035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 999
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ce645148d514b0800000000000000
+      internalID: -5470228397270579404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 983
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750aa71529df33590800000000000000
+      internalID: -7695528533372002217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 993
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ee6485057a959d0800000000000000
+      internalID: -2785010931031675285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 943
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652345cf8363b780800000000000000
+      internalID: -8668475388617087640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 957
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238101802af327910800000000000000
+      internalID: 1833597963445737522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 977
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e42d6b9bba91c50800000000000000
+      internalID: 6636524340031671854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 951
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b4a3545fb949b0800000000000000
+      internalID: -5095331134491544399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 983
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72a7d2637442f60800000000000000
+      internalID: 8008604335388370925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_15
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 975
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc1dcc2fdf62de0800000000000000
+      internalID: -1358119018345411104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 945
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e6e1445a5542a20800000000000000
+      internalID: 3036646217055366698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 956
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc098c0e6b8acf940800000000000000
+      internalID: 5331321562308579535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 933
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902f56d7e486c3a0800000000000000
+      internalID: -6645478068869717871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 959
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a801cb6736c7500800000000000000
+      internalID: 395300228914252416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 327
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f648adf0fd100d0800000000000000
+      internalID: -3458237779660214469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 933
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce5f02a10095fc0800000000000000
+      internalID: -3505770722709083056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 923
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2223ea8638888750800000000000000
+      internalID: 6307441045972132396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 927
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fadbecad2d82460800000000000000
+      internalID: 7217250240074461060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 911
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb7e557f266b00f0800000000000000
+      internalID: -1149712925844407331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 927
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f39ae4d417a030800000000000000
+      internalID: 3505793739632407647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 933
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a78d2bce3670810800000000000000
+      internalID: 1731462450011208301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 929
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba6decc1e0963d20800000000000000
+      internalID: 3257950679929285297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 553
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6ef9004e0f7c60800000000000000
+      internalID: 7817983146346834583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 563
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48af1c28ee833df80800000000000000
+      internalID: -8083054309152785788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 561
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491250dcd4fe41e00800000000000000
+      internalID: 1014698933496390036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 545
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5207ff3323c45c0800000000000000
+      internalID: -4229950751097477728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 543
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793bf6a0706602f80800000000000000
+      internalID: -8133388746605218921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 559
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d39a9f053d62ae0800000000000000
+      internalID: -1574338674979947182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 531
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999bc1d55c869e6a0800000000000000
+      internalID: -6419484596959921767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_35
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 505
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20275eedf02cc01d0800000000000000
+      internalID: -3383115846642208254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 545
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a19cb09553f6420800000000000000
+      internalID: 2625375764346378873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 527
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5bcda6227fdc3d0800000000000000
+      internalID: -3184617634287274507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_38
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 526
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ffc2367067dc930800000000000000
+      internalID: 4165115004488318745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 513
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f29ad6dc31224e0800000000000000
+      internalID: -2008020710824792241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_40
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 519
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96207c72bcfbac30800000000000000
+      internalID: 4371865706815301277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_41
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 519
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc16494c661266f0800000000000000
+      internalID: -692966738320024354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_42
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 533
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8c2353bb7b51b0800000000000000
+      internalID: -5666799695990846561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_43
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467230783a82b32c0800000000000000
+      internalID: -4450919123915692188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 508
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02eb736db3633980800000000000000
+      internalID: -8560388801632148978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 503
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2673ee6548a6a0b0800000000000000
+      internalID: -5717697660733655507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_46
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 511
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d361307b769379b0800000000000000
+      internalID: -5083554097463729192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_47
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 515
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ccf8f7fd41a9890800000000000000
+      internalID: -7450619683380671447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 509
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d418db7460186f0800000000000000
+      internalID: -684258763191792326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_49
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 511
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d97a506ffdd3d00800000000000000
+      internalID: 954164943822232915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55deef9c086cb7490800000000000000
+      internalID: -7747380477513765547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 493
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a93bc44380f3b50800000000000000
+      internalID: 6574983001702373888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81174fc08e03d80800000000000000
+      internalID: -8272857373141296968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef2639366e79f560800000000000000
+      internalID: 7348043244543291362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_Skill 1 (3)_54
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab53a3fbf453eb0800000000000000
+      internalID: -4740795350003631399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hane_Skill 1 (3)_0: -6440369641259510644
+      Hane_Skill 1 (3)_1: 325076786882364896
+      Hane_Skill 1 (3)_10: -8668475388617087640
+      Hane_Skill 1 (3)_11: 1833597963445737522
+      Hane_Skill 1 (3)_12: 6636524340031671854
+      Hane_Skill 1 (3)_13: -5095331134491544399
+      Hane_Skill 1 (3)_14: 8008604335388370925
+      Hane_Skill 1 (3)_15: -1358119018345411104
+      Hane_Skill 1 (3)_16: 3036646217055366698
+      Hane_Skill 1 (3)_17: 5331321562308579535
+      Hane_Skill 1 (3)_18: -6645478068869717871
+      Hane_Skill 1 (3)_19: 395300228914252416
+      Hane_Skill 1 (3)_2: -2575289736208573939
+      Hane_Skill 1 (3)_20: -3458237779660214469
+      Hane_Skill 1 (3)_21: -3505770722709083056
+      Hane_Skill 1 (3)_22: 6307441045972132396
+      Hane_Skill 1 (3)_23: 7217250240074461060
+      Hane_Skill 1 (3)_24: -1149712925844407331
+      Hane_Skill 1 (3)_25: 3505793739632407647
+      Hane_Skill 1 (3)_26: 1731462450011208301
+      Hane_Skill 1 (3)_27: 3257950679929285297
+      Hane_Skill 1 (3)_28: 7817983146346834583
+      Hane_Skill 1 (3)_29: -8083054309152785788
+      Hane_Skill 1 (3)_3: 1518008063070858244
+      Hane_Skill 1 (3)_30: 1014698933496390036
+      Hane_Skill 1 (3)_31: -4229950751097477728
+      Hane_Skill 1 (3)_32: -8133388746605218921
+      Hane_Skill 1 (3)_33: -1574338674979947182
+      Hane_Skill 1 (3)_34: -6419484596959921767
+      Hane_Skill 1 (3)_35: -3383115846642208254
+      Hane_Skill 1 (3)_36: 2625375764346378873
+      Hane_Skill 1 (3)_37: -3184617634287274507
+      Hane_Skill 1 (3)_38: 4165115004488318745
+      Hane_Skill 1 (3)_39: -2008020710824792241
+      Hane_Skill 1 (3)_4: -7848799437478302175
+      Hane_Skill 1 (3)_40: 4371865706815301277
+      Hane_Skill 1 (3)_41: -692966738320024354
+      Hane_Skill 1 (3)_42: -5666799695990846561
+      Hane_Skill 1 (3)_43: -4450919123915692188
+      Hane_Skill 1 (3)_44: -8560388801632148978
+      Hane_Skill 1 (3)_45: -5717697660733655507
+      Hane_Skill 1 (3)_46: -5083554097463729192
+      Hane_Skill 1 (3)_47: -7450619683380671447
+      Hane_Skill 1 (3)_48: -684258763191792326
+      Hane_Skill 1 (3)_49: 954164943822232915
+      Hane_Skill 1 (3)_5: -8945012643894429658
+      Hane_Skill 1 (3)_50: -7747380477513765547
+      Hane_Skill 1 (3)_51: 6574983001702373888
+      Hane_Skill 1 (3)_52: -8272857373141296968
+      Hane_Skill 1 (3)_53: 7348043244543291362
+      Hane_Skill 1 (3)_54: -4740795350003631399
+      Hane_Skill 1 (3)_6: -8374891345918379035
+      Hane_Skill 1 (3)_7: -5470228397270579404
+      Hane_Skill 1 (3)_8: -7695528533372002217
+      Hane_Skill 1 (3)_9: -2785010931031675285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

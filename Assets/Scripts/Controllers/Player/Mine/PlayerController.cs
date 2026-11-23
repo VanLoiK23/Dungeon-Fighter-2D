@@ -52,7 +52,7 @@ public class PlayerController : MonoBehaviour
     private bool isAttacking;
 
     private KeyCode jumpKey, downKey, leftKey, rightKey;
-    private KeyCode attackKey, skill1Key, skill2Key, raseganKey, dashKey;
+    private KeyCode attackKey, skill1Key, skill2Key, skill3Key, raseganKey, dashKey;
 
     void Awake()
     {
@@ -83,6 +83,7 @@ public class PlayerController : MonoBehaviour
             attackKey = KeyCode.J;
             skill1Key = KeyCode.U;
             skill2Key = KeyCode.I;
+            skill3Key = KeyCode.O;
             raseganKey = KeyCode.K;
             dashKey = KeyCode.L;
         }
@@ -95,6 +96,7 @@ public class PlayerController : MonoBehaviour
             attackKey = KeyCode.Keypad1;
             skill1Key = KeyCode.Keypad4;
             skill2Key = KeyCode.Keypad5;
+            skill3Key = KeyCode.Keypad6;
             raseganKey = KeyCode.Keypad2;
             dashKey = KeyCode.Keypad3;
         }
@@ -118,7 +120,8 @@ public class PlayerController : MonoBehaviour
 
         AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
         isAttacking = stateInfo.IsTag("Attack") || stateInfo.IsName("Skill 1") ||
-                      stateInfo.IsName("Skill 2") || stateInfo.IsName("Rasegan");
+                      stateInfo.IsName("Skill 2") || stateInfo.IsName("Skill 3") ||
+                      stateInfo.IsName("Rasegan");
 
         if (!isAttacking)
         {
@@ -277,6 +280,13 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(skill2Key))
         {
             anim.SetTrigger("Skill2");
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
+        if (Input.GetKeyDown(skill3Key))
+        {
+            anim.SetTrigger("Skill3");
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
             return;
         }
