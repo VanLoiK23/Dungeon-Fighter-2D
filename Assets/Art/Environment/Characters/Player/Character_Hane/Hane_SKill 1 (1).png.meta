@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 7fd6f69604b1da547b292471f94843bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7869722409145283029
+    second: Hane_SKill 1 (1)_0
+  - first:
+      213: 4113952216765337159
+    second: Hane_SKill 1 (1)_1
+  - first:
+      213: 3605778843270353118
+    second: Hane_SKill 1 (1)_2
+  - first:
+      213: 6011263267213659432
+    second: Hane_SKill 1 (1)_3
+  - first:
+      213: 8170864674256664286
+    second: Hane_SKill 1 (1)_4
+  - first:
+      213: -7843710331215933545
+    second: Hane_SKill 1 (1)_5
+  - first:
+      213: -2048275759941221175
+    second: Hane_SKill 1 (1)_6
+  - first:
+      213: -3775068967123974846
+    second: Hane_SKill 1 (1)_7
+  - first:
+      213: 7867679093440957288
+    second: Hane_SKill 1 (1)_8
+  - first:
+      213: 6315937262121968954
+    second: Hane_SKill 1 (1)_9
+  - first:
+      213: 5914395930872741757
+    second: Hane_SKill 1 (1)_10
+  - first:
+      213: 4929431526685926381
+    second: Hane_SKill 1 (1)_11
+  - first:
+      213: 5103117591380609168
+    second: Hane_SKill 1 (1)_12
+  - first:
+      213: 3909038725736173326
+    second: Hane_SKill 1 (1)_13
+  - first:
+      213: 1703501334519608952
+    second: Hane_SKill 1 (1)_14
+  - first:
+      213: 4274324525925903991
+    second: Hane_SKill 1 (1)_15
+  - first:
+      213: -1847273292766929151
+    second: Hane_SKill 1 (1)_16
+  - first:
+      213: -3111753320773557162
+    second: Hane_SKill 1 (1)_17
+  - first:
+      213: -4277473279606892999
+    second: Hane_SKill 1 (1)_18
+  - first:
+      213: -2570513505386201019
+    second: Hane_SKill 1 (1)_19
+  - first:
+      213: -8052944996721726458
+    second: Hane_SKill 1 (1)_20
+  - first:
+      213: 1439863998395571166
+    second: Hane_SKill 1 (1)_21
+  - first:
+      213: 2998644921843469762
+    second: Hane_SKill 1 (1)_22
+  - first:
+      213: 729729577082876130
+    second: Hane_SKill 1 (1)_23
+  - first:
+      213: -8652283512482598672
+    second: Hane_SKill 1 (1)_24
+  - first:
+      213: -1052625378144921408
+    second: Hane_SKill 1 (1)_25
+  - first:
+      213: 6723104065235579467
+    second: Hane_SKill 1 (1)_26
+  - first:
+      213: -8670491345915070010
+    second: Hane_SKill 1 (1)_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 599
+        width: 343
+        height: 318
+      alignment: 9
+      pivot: {x: 0.73792875, y: 0.047573067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec6f91a2129c290800000000000000
+      internalID: -7869722409145283029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 594
+        width: 383
+        height: 318
+      alignment: 9
+      pivot: {x: 0.7444455, y: 0.07293394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8a379eb1b71930800000000000000
+      internalID: 4113952216765337159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 975
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09fb3f0cc4a0230800000000000000
+      internalID: 3605778843270353118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 597
+        width: 383
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5749182, y: 0.0644512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dcf9da71c4c6350800000000000000
+      internalID: 6011263267213659432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 955
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed63bd0512eb46170800000000000000
+      internalID: 8170864674256664286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 598
+        width: 383
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5363559, y: 0.03489775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f00d2f20b852390800000000000000
+      internalID: -7843710331215933545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 383
+        height: 393
+      alignment: 9
+      pivot: {x: 0.15836625, y: 0.14364609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c409ae6c001393e0800000000000000
+      internalID: -2048275759941221175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 911
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24589fb86c24c9bc0800000000000000
+      internalID: -3775068967123974846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 897
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bc053637c9f2d60800000000000000
+      internalID: 7867679093440957288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 393
+        height: 393
+      alignment: 9
+      pivot: {x: 0.11759852, y: 0.14364612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ee640a77b6a750800000000000000
+      internalID: 6315937262121968954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 655
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7fa863c7241250800000000000000
+      internalID: 5914395930872741757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 549
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3e9b43bdbd86440800000000000000
+      internalID: 4929431526685926381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 527
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c941796ae1d640800000000000000
+      internalID: 5103117591380609168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 393
+        height: 393
+      alignment: 9
+      pivot: {x: 0.1050971, y: 0.14208816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f00c49202bf3630800000000000000
+      internalID: 3909038725736173326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 469
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f17e207d04a710800000000000000
+      internalID: 1703501334519608952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 471
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ead8e8283715b30800000000000000
+      internalID: 4274324525925903991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 64
+        width: 317
+        height: 407
+      alignment: 9
+      pivot: {x: 0.3784715, y: 0.14687696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f9f8d3aba2d56e0800000000000000
+      internalID: -1847273292766929151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 25
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65466ae67d4d0d4d0800000000000000
+      internalID: -3111753320773557162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 37
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9365ec817bc53a4c0800000000000000
+      internalID: -4277473279606892999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 45
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5408c150693b35cd0800000000000000
+      internalID: -2570513505386201019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 36
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c64aa11313e3090800000000000000
+      internalID: -8052944996721726458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 27
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbdd358dac6bf310800000000000000
+      internalID: 1439863998395571166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 23
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd420e3ba35d9920800000000000000
+      internalID: 2998644921843469762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 25
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0fe102f25802a00800000000000000
+      internalID: 729729577082876130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f07186bcf9ece780800000000000000
+      internalID: -8652283512482598672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 15
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85c1eabc25461f0800000000000000
+      internalID: -1052625378144921408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 17
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42f95cd6834d4d50800000000000000
+      internalID: 6723104065235579467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hane_SKill 1 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c932a22f0a3ca780800000000000000
+      internalID: -8670491345915070010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c864862929ce18b4994ed66356c4f630
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hane_SKill 1 (1)_0: -7869722409145283029
+      Hane_SKill 1 (1)_1: 4113952216765337159
+      Hane_SKill 1 (1)_10: 5914395930872741757
+      Hane_SKill 1 (1)_11: 4929431526685926381
+      Hane_SKill 1 (1)_12: 5103117591380609168
+      Hane_SKill 1 (1)_13: 3909038725736173326
+      Hane_SKill 1 (1)_14: 1703501334519608952
+      Hane_SKill 1 (1)_15: 4274324525925903991
+      Hane_SKill 1 (1)_16: -1847273292766929151
+      Hane_SKill 1 (1)_17: -3111753320773557162
+      Hane_SKill 1 (1)_18: -4277473279606892999
+      Hane_SKill 1 (1)_19: -2570513505386201019
+      Hane_SKill 1 (1)_2: 3605778843270353118
+      Hane_SKill 1 (1)_20: -8052944996721726458
+      Hane_SKill 1 (1)_21: 1439863998395571166
+      Hane_SKill 1 (1)_22: 2998644921843469762
+      Hane_SKill 1 (1)_23: 729729577082876130
+      Hane_SKill 1 (1)_24: -8652283512482598672
+      Hane_SKill 1 (1)_25: -1052625378144921408
+      Hane_SKill 1 (1)_26: 6723104065235579467
+      Hane_SKill 1 (1)_27: -8670491345915070010
+      Hane_SKill 1 (1)_3: 6011263267213659432
+      Hane_SKill 1 (1)_4: 8170864674256664286
+      Hane_SKill 1 (1)_5: -7843710331215933545
+      Hane_SKill 1 (1)_6: -2048275759941221175
+      Hane_SKill 1 (1)_7: -3775068967123974846
+      Hane_SKill 1 (1)_8: 7867679093440957288
+      Hane_SKill 1 (1)_9: 6315937262121968954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

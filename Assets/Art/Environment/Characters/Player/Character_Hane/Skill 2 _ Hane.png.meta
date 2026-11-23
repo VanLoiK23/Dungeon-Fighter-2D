@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 9744306420a40094dbdca255c451dd1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9075938010494299860
+    second: Skill 2 _ Hane_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 542
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de6afeb88534fd70800000000000000
+      internalID: 9075938010494299860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 542
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e2c11db404114a8e9bdee607bfaf5
+      internalID: -92505406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 540
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae09627b7d1244aa93c5ebd80b66a6
+      internalID: -1735269734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 542
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d193935a29e8458caa144d570c0f8
+      internalID: -282472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 540
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f2bfc2c2fc07419a94d441969b744
+      internalID: -1453846878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 542
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35172d7f67fae7f458501a73e42b3dba
+      internalID: -491998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 538
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79213fb5864bcf4ea89ec0e45d72124
+      internalID: -405592584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 540
+        width: 135
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf397a25ff45baa43a33185920fdcac6
+      internalID: -437621627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 538
+        width: 135
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e7c733abe844428a15f3ec0896ed9
+      internalID: 1220135457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 538
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9855fdacbe4cc9e469fb01aea062f23a
+      internalID: 1484439130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_10
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 530
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad07ab7ea4da44c8a2aefe3a9d14cb
+      internalID: 1496309670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_11
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 533
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6aa9e2ec2b214997a1ae7753b88eb
+      internalID: 1370557807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_12
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 530
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0296ee14297d841a609ea1130fc197
+      internalID: -800919805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_13
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 526
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b813b2f45a80174aaded3559d9d2519
+      internalID: 1473077863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_14
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 526
+        width: 161
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc6685a58a2374e8d348b6253c430f
+      internalID: -73471812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 177
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd56d8a6e9df004297df2041f55385a
+      internalID: -641385626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 345
+        width: 161
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54e715b37757247af3d9ff17bebb83
+      internalID: 190530586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 349
+        width: 161
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62f62ea44f97a4693a85b52e5fa6a0
+      internalID: 571676917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 351
+        width: 161
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbe92d1e3c5104e93b442070d47dc0
+      internalID: 2092911560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 345
+        width: 161
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fb1fe3ad010f498ea76d8be77f66d
+      internalID: 221603876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 346
+        width: 161
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f1ea1316b5fc42af16071cbc5e338
+      internalID: -510274240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_21
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 343
+        width: 161
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715ff427c782974d87d25246878ad38
+      internalID: -1077792704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 340
+        width: 161
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65e7e18ffff0a4ea4bf59a96e13d74
+      internalID: -1292789750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_23
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 340
+        width: 266
+        height: 177
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4239047abcbf947b48c89d2b9181fe
+      internalID: -782575849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_24
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 344
+        width: 180
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00272f1cbc7cb294687f2c1288827a2a
+      internalID: 1941102013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_25
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 343
+        width: 264
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48333624, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b06e211368f8441bf3b96427782908
+      internalID: 104569709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 215
+        height: 158
+      alignment: 9
+      pivot: {x: 0.14463106, y: 0.051721595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c9f726de7ea9240bda15542fb5b521
+      internalID: -386573499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 176
+        width: 144
+        height: 158
+      alignment: 9
+      pivot: {x: 0.17281543, y: 0.051721502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc937421d1262074885794676d8f40d7
+      internalID: 619076460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 176
+        width: 469
+        height: 158
+      alignment: 9
+      pivot: {x: 0.06967297, y: 0.03554931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525029996c2fa3648a9a5e2fe8a84bcf
+      internalID: 1806134585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_29
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 173
+        width: 1296
+        height: 143
+      alignment: 9
+      pivot: {x: 0.007665325, y: 0.08406511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c1cd6878fb88142942d89f54bbca90
+      internalID: 1163356698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 2125
+        height: 141
+      alignment: 9
+      pivot: {x: 0.026416339, y: 0.19726768}
+      border: {x: 0, y: 16, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a006ec707c830d4d9680b598bed2242
+      internalID: -1930668527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7945bcd9ae6c41840b86919c80809773
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill 2 _ Hane_0: 9075938010494299860
+      Skill 2 _ Hane_1: -92505406
+      Skill 2 _ Hane_10: 1496309670
+      Skill 2 _ Hane_11: 1370557807
+      Skill 2 _ Hane_12: -800919805
+      Skill 2 _ Hane_13: 1473077863
+      Skill 2 _ Hane_14: -73471812
+      Skill 2 _ Hane_15: -641385626
+      Skill 2 _ Hane_16: 190530586
+      Skill 2 _ Hane_17: 571676917
+      Skill 2 _ Hane_18: 2092911560
+      Skill 2 _ Hane_19: 221603876
+      Skill 2 _ Hane_2: -1735269734
+      Skill 2 _ Hane_20: -510274240
+      Skill 2 _ Hane_21: -1077792704
+      Skill 2 _ Hane_22: -1292789750
+      Skill 2 _ Hane_23: -782575849
+      Skill 2 _ Hane_24: 1941102013
+      Skill 2 _ Hane_25: 104569709
+      Skill 2 _ Hane_26: -386573499
+      Skill 2 _ Hane_27: 619076460
+      Skill 2 _ Hane_28: 1806134585
+      Skill 2 _ Hane_29: 1163356698
+      Skill 2 _ Hane_3: -282472066
+      Skill 2 _ Hane_30: -1930668527
+      Skill 2 _ Hane_4: -1453846878
+      Skill 2 _ Hane_5: -491998106
+      Skill 2 _ Hane_6: -405592584
+      Skill 2 _ Hane_7: -437621627
+      Skill 2 _ Hane_8: 1220135457
+      Skill 2 _ Hane_9: 1484439130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

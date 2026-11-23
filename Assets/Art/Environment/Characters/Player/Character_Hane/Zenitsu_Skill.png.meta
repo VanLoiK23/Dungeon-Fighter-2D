@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 4d81ddfba4127cd428fada2cf5550915
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 715067570684099155
+    second: Zenitsu_Skill_0
+  - first:
+      213: -3508495723866830155
+    second: Zenitsu_Skill_1
+  - first:
+      213: -3844097432146526465
+    second: Zenitsu_Skill_2
+  - first:
+      213: -5163383316851019611
+    second: Zenitsu_Skill_3
+  - first:
+      213: 4751938878540630524
+    second: Zenitsu_Skill_4
+  - first:
+      213: 5793067251334276794
+    second: Zenitsu_Skill_5
+  - first:
+      213: -1338712974629711766
+    second: Zenitsu_Skill_6
+  - first:
+      213: -8213487057306615503
+    second: Zenitsu_Skill_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zenitsu_Skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 168
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af60dba2e6ce900800000000000000
+      internalID: 715067570684099155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 1536
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 520, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac0fa5ab15f4fc0800000000000000
+      internalID: -3508495723866830155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3aea90c507aac0800000000000000
+      internalID: -3844097432146526465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_3
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 473
+        width: 389
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bae7ea3af758b0800000000000000
+      internalID: -5163383316851019611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf948c1bb3742f140800000000000000
+      internalID: 4751938878540630524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab66abbd8fb156050800000000000000
+      internalID: 5793067251334276794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 41
+        width: 185
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605df274afeb6de0800000000000000
+      internalID: -1338712974629711766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 33
+        width: 563
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13188fdc905d30e80800000000000000
+      internalID: -8213487057306615503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 784
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b055d1c32f13ef04c81050d28389cb15
+      internalID: -1864472471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 784
+        width: 145
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a64b29188eea40bd78d0b0209365c
+      internalID: 375940095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 784
+        width: 137
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a52cecff1c1451418e0536e2b04c1f5
+      internalID: 93748745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_11
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 784
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a943bfcbf2ab43abffdf91e0952fe
+      internalID: 2033372574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 784
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b8ed60cbf8ac4abbb145efeaf9685
+      internalID: 2012575238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 784
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed73b9a4f3a17914cbdf7025d7dd0e6e
+      internalID: -130645320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_14
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 784
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b53e0e78659447bff5483e91a059a
+      internalID: 586304935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 778
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac51857b120d08f448d1bbda2cc310e7
+      internalID: 1205517925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_16
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 778
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f051e0cc49a4e469754fb11e2d2148
+      internalID: 1771901804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 583
+        width: 152
+        height: 138
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c204917c12c9e4abc9600bae8d6adc
+      internalID: -1636772466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 577
+        width: 152
+        height: 138
+      alignment: 9
+      pivot: {x: 0.51501685, y: 0.03281682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493cda8db43dfe14a9ed7ffce095ddea
+      internalID: 884749899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 580
+        width: 243
+        height: 130
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4ba77dedd9d04bae2d645576fdd10
+      internalID: 892637087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 574
+        width: 211
+        height: 130
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 14, y: 0, z: 4, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5546580ba2e7618489127bbad1ccad52
+      internalID: -2017489434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_21
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 571
+        width: 189
+        height: 130
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dae1f85fd8411428dc6012897072e7
+      internalID: -516637931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 574
+        width: 189
+        height: 130
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a057284cbc72c84083965ebbcfbec84
+      internalID: -1269593417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 573
+        width: 346
+        height: 130
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f38be0b6bec984c9d672bf0c3c971f
+      internalID: -578993057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 204
+        height: 197
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60d3d3488fc3d4589e2f0f150b2ec0
+      internalID: 1463063059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 277
+        width: 308
+        height: 229
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1accba2a075d4496173d6ca9ee0c0
+      internalID: -1526575049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 266
+        width: 285
+        height: 267
+      alignment: 9
+      pivot: {x: 0.08936087, y: 0.032816727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383cad8e3e55c142a45517951157d57
+      internalID: -70515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_27
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 266
+        width: 721
+        height: 286
+      alignment: 9
+      pivot: {x: 0.019380568, y: 0.046048358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710eaacccb262fc4493a8948373a76fd
+      internalID: 1955224512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc30c0d6fea4754a9ba551141be2f4b
+      internalID: 47683030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7fa50f46b49d749946b4bf047238ce
+      internalID: 410897708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399100a0d63d676448b92dd88422b8be
+      internalID: -1543413482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d665f32576ba43ae86277515d3943
+      internalID: -541549132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_32
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca62a787a833f41a4de3e74cc05de8
+      internalID: -2133583613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_33
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 197
+        height: 237
+      alignment: 9
+      pivot: {x: 0.42316386, y: 0.26049477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc4115bfe888b4bab0b4503e1319d4
+      internalID: -524429521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_Skill_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 241
+        width: 990
+        height: 321
+      alignment: 9
+      pivot: {x: 0.0030869609, y: 0.13847879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76d666c2634344e81ccc9751da64d2
+      internalID: -1763308678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb1286b9cd1fd774aa8e72b8f6a5e76f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zenitsu_Skill_0: 715067570684099155
+      Zenitsu_Skill_1: -3508495723866830155
+      Zenitsu_Skill_10: 93748745
+      Zenitsu_Skill_11: 2033372574
+      Zenitsu_Skill_12: 2012575238
+      Zenitsu_Skill_13: -130645320
+      Zenitsu_Skill_14: 586304935
+      Zenitsu_Skill_15: 1205517925
+      Zenitsu_Skill_16: 1771901804
+      Zenitsu_Skill_17: -1636772466
+      Zenitsu_Skill_18: 884749899
+      Zenitsu_Skill_19: 892637087
+      Zenitsu_Skill_2: -3844097432146526465
+      Zenitsu_Skill_20: -2017489434
+      Zenitsu_Skill_21: -516637931
+      Zenitsu_Skill_22: -1269593417
+      Zenitsu_Skill_23: -578993057
+      Zenitsu_Skill_24: 1463063059
+      Zenitsu_Skill_25: -1526575049
+      Zenitsu_Skill_26: -70515831
+      Zenitsu_Skill_27: 1955224512
+      Zenitsu_Skill_28: 47683030
+      Zenitsu_Skill_29: 410897708
+      Zenitsu_Skill_3: -5163383316851019611
+      Zenitsu_Skill_30: -1543413482
+      Zenitsu_Skill_31: -541549132
+      Zenitsu_Skill_32: -2133583613
+      Zenitsu_Skill_33: -524429521
+      Zenitsu_Skill_34: -1763308678
+      Zenitsu_Skill_4: 4751938878540630524
+      Zenitsu_Skill_5: 5793067251334276794
+      Zenitsu_Skill_6: -1338712974629711766
+      Zenitsu_Skill_7: -8213487057306615503
+      Zenitsu_Skill_8: -1864472471
+      Zenitsu_Skill_9: 375940095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
