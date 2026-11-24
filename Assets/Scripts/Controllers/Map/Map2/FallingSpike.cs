@@ -37,8 +37,16 @@ public class FallingSpike : MonoBehaviour
     {
         if (spikeRigidbody != null)
         {
-            // Chuyển từ Kinematic sang Dynamic để trọng lực kéo gai rơi xuống
+            if (spikeRigidbody.GetComponent<FallingSpikeTrap>() == null)
+            {
+                spikeRigidbody.gameObject.AddComponent<FallingSpikeTrap>();
+            }
+
             spikeRigidbody.bodyType = RigidbodyType2D.Dynamic;
+        }
+        else
+        {
+            Debug.LogError("FallingSpike chưa được gán Spike Rigidbody.", this);
         }
     }
 }

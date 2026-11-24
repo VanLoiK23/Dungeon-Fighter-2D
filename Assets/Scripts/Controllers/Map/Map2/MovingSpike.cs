@@ -66,4 +66,14 @@ public class MovingSpike : MonoBehaviour
 
         transform.position = target;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        SpikeTrapDamage.TryDamage(collision.gameObject, gameObject);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        SpikeTrapDamage.TryDamage(other.gameObject, gameObject, 0, true);
+    }
 }

@@ -34,6 +34,9 @@ public class PlayerController : MonoBehaviour
     [Header("Double Jump Settings")]
     public int maxJumps = 2;
     private int jumpCount = 0;
+    [Min(0f)]
+    public float jumpBufferTime = 0.15f;
+    private float jumpBufferCounter;
 
     [Header("Ground Detection")]
     public Transform groundCheck;
@@ -105,6 +108,15 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         if (anim.GetBool("isDead")) return;
+
+        if (Input.GetKeyDown(jumpKey))
+        {
+            jumpBufferCounter = jumpBufferTime;
+        }
+        else if (knockbackTimer <= 0f)
+        {
+            jumpBufferCounter = Mathf.Max(0f, jumpBufferCounter - Time.deltaTime);
+        }
 
         // Giảm thời gian đếm ngược
         if (invulTimer > 0) invulTimer -= Time.deltaTime;
@@ -230,13 +242,11 @@ public class PlayerController : MonoBehaviour
 
     void CheckGroundStatus()
     {
-        bool wasGrounded = isGrounded;
-
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         anim.SetBool("isGrounded", isGrounded);
         anim.SetFloat("yVelocity", rb.linearVelocity.y);
 
-        if (isGrounded && !wasGrounded && rb.linearVelocity.y <= 0.1f)
+        if (isGrounded && rb.linearVelocity.y <= 0.1f)
         {
             jumpCount = 0;
         }
@@ -244,13 +254,13 @@ public class PlayerController : MonoBehaviour
 
     void HandleJump()
     {
-        if (Input.GetKeyDown(jumpKey) && jumpCount < maxJumps)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            jumpCount++;
-            anim.SetTrigger("JumpTrigger");
-        }
+        if (jumpBufferCounter <= 0f || jumpCount >= maxJumps)
+            return;
+
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        jumpCount++;
+        jumpBufferCounter = 0f;
+        anim.SetTrigger("JumpTrigger");
     }
 
     void HandleDefense()

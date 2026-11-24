@@ -14,6 +14,18 @@ public class GunLaserCycle : MonoBehaviour
 
     private void Start()
     {
+        if (laserEffect == null || laserCollider == null)
+        {
+            Debug.LogError("GunLaserCycle cần gán Laser Effect và Laser Collider.", this);
+            enabled = false;
+            return;
+        }
+
+        if (laserCollider.GetComponent<SpikeTrapDamage>() == null)
+        {
+            laserCollider.gameObject.AddComponent<SpikeTrapDamage>();
+        }
+
         StartCoroutine(LaserLoop());
     }
 

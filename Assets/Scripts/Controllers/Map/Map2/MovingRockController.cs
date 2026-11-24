@@ -2,7 +2,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class MovingRock : MonoBehaviour
+public class MovingRockController : MonoBehaviour
 {
     [Header("Movement Settings")]
     public float moveDistance = 3f;
@@ -58,16 +58,24 @@ public class MovingRock : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Player"))
+        PlayerController player = collision.gameObject.GetComponentInParent<PlayerController>();
+        if (player == null)
             return;
 
+        bool isPlayerOnTop = false;
         foreach (ContactPoint2D contact in collision.contacts)
         {
             if (contact.normal.y < -0.5f)
             {
                 playerOnRock = collision.transform;
+                isPlayerOnTop = true;
                 break;
             }
+        }
+
+        if (!isPlayerOnTop)
+        {
+            SpikeTrapDamage.TryDamage(collision.gameObject, gameObject);
         }
     }
 
@@ -77,5 +85,10 @@ public class MovingRock : MonoBehaviour
         {
             playerOnRock = null;
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        SpikeTrapDamage.TryDamage(other.gameObject, gameObject, 0, true);
     }
 }
