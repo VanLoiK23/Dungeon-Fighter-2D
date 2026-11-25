@@ -382,12 +382,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   maxHealth: 100
-  attackDamage: 15
+  attackDamage: 5
   moveSpeed: 2
   chaseSpeed: 4
-  detectionRange: 6
-  attackRange: 1.5
-  attackCooldown: 1.5
+  detectionRange: 7
+  attackRange: 5
+  attackCooldown: 5
   pointA: {fileID: 0}
   pointB: {fileID: 0}
   healthCanvas: {fileID: 1317886575365327567}
