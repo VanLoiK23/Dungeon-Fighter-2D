@@ -23,4 +23,14 @@ public class SimpleSpinTrap : MonoBehaviour
 
         rb.MoveRotation(nextAngle);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        SpikeTrapDamage.TryDamage(collision.gameObject, gameObject);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        SpikeTrapDamage.TryDamage(other.gameObject, gameObject, 0, true);
+    }
 }

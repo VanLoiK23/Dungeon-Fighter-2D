@@ -12,6 +12,14 @@ public class HitboxDamage : MonoBehaviour
     {
         if (canDamage && ((1 << collision.gameObject.layer & enemyLayer) != 0))
         {
+            EnemyAIMap2 map2Enemy = collision.GetComponentInParent<EnemyAIMap2>();
+            if (map2Enemy != null)
+            {
+                map2Enemy.TakeDamage(damage, transform.parent.gameObject);
+                canDamage = false;
+                return;
+            }
+
             EnemyAI enemy = collision.GetComponent<EnemyAI>();
             if (enemy != null)
             {

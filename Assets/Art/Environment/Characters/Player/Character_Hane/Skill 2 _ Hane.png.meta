@@ -741,8 +741,8 @@ TextureImporter:
       name: Skill 2 _ Hane_29
       rect:
         serializedVersion: 2
-        x: 866
-        y: 173
+        x: 865
+        y: 179
         width: 1296
         height: 143
       alignment: 9
@@ -763,13 +763,13 @@ TextureImporter:
       name: Skill 2 _ Hane_30
       rect:
         serializedVersion: 2
-        x: 47
-        y: 11
-        width: 2125
-        height: 141
+        x: 50
+        y: 26
+        width: 1290
+        height: 143
       alignment: 9
-      pivot: {x: 0.026416339, y: 0.19726768}
-      border: {x: 0, y: 16, z: 0, w: 0}
+      pivot: {x: 0.04216767, y: 0.101932846}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -777,6 +777,28 @@ TextureImporter:
       bones: []
       spriteID: 0a006ec707c830d4d9680b598bed2242
       internalID: -1930668527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill 2 _ Hane_31
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 13
+        width: 168
+        height: 167
+      alignment: 9
+      pivot: {x: 0.043724425, y: 0.15574406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266eb3a8e3682fa42aca23ae1af7b835
+      internalID: -37353217
       vertices: []
       indices: 
       edges: []
@@ -820,6 +842,7 @@ TextureImporter:
       Skill 2 _ Hane_29: 1163356698
       Skill 2 _ Hane_3: -282472066
       Skill 2 _ Hane_30: -1930668527
+      Skill 2 _ Hane_31: -37353217
       Skill 2 _ Hane_4: -1453846878
       Skill 2 _ Hane_5: -491998106
       Skill 2 _ Hane_6: -405592584

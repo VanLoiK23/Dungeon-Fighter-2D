@@ -9,6 +9,12 @@ public class FallingRock : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.GetComponentInParent<PlayerController>() != null)
+        {
+            SpikeTrapDamage.TryDamage(collision.gameObject, gameObject);
+            return;
+        }
+
         if (hasPressedButton)
             return;
 

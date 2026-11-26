@@ -47,18 +47,21 @@ public class RollingStone : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Rigidbody2D playerRb = collision.gameObject.GetComponent<Rigidbody2D>();
-            if (playerRb != null)
-            {
-                playerRb.linearVelocity = Vector2.zero; 
-                float dirX = Mathf.Sign(collision.transform.position.x - transform.position.x);
-                Vector2 knockback = new Vector2(dirX * knockbackForce, knockbackForce * 0.4f);
-                playerRb.AddForce(knockback, ForceMode2D.Impulse);
-            }
+        if (!isActivated || !collision.gameObject.CompareTag("Player"))
+            return;
 
-            Debug.Log("Player bị đá đè trúng! HP trừ: " + damageAmount);
+        Rigidbody2D playerRb = collision.gameObject.GetComponent<Rigidbody2D>();
+        if (playerRb != null)
+        {
+            playerRb.linearVelocity = Vector2.zero;
+            float dirX = Mathf.Sign(collision.transform.position.x - transform.position.x);
+            Vector2 knockback = new Vector2(dirX * knockbackForce, knockbackForce * 0.4f);
+            playerRb.AddForce(knockback, ForceMode2D.Impulse);
         }
+
+        SpikeTrapDamage.TryDamage(
+            collision.gameObject,
+            gameObject,
+            damageAmount);
     }
 }

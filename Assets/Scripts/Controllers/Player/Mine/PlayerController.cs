@@ -31,9 +31,32 @@ public class PlayerController : MonoBehaviour
     public float dashSpeed = 8f;
     public float jumpForce = 8.5f;
 
+    [Header("Skill Lunge")]
+    [Min(0f)]
+    public float skillLungeSpeed = 8f;
+    [Min(0f)]
+    public float skillLungeDuration = 0.25f;
+    private float skillLungeEndTime;
+    private float skillLungeDirection = 1f;
+
+    [Header("Shared Skill Teleport")]
+    [Min(0f)]
+    public float skillTeleportDistance = 5f;
+    [Min(0f)]
+    public float skillTeleportSpeed = 20f;
+
+    [Header("Skill 3 Teleport")]
+    [Min(0f)]
+    public float skill3TeleportDistance = 5f;
+    [Min(0f)]
+    public float skill3TeleportSpeed = 20f;
+
     [Header("Double Jump Settings")]
     public int maxJumps = 2;
     private int jumpCount = 0;
+    [Min(0f)]
+    public float jumpBufferTime = 0.15f;
+    private float jumpBufferCounter;
 
     [Header("Ground Detection")]
     public Transform groundCheck;
@@ -50,6 +73,9 @@ public class PlayerController : MonoBehaviour
     private bool isBlocking;
     private bool isDashing;
     private bool isAttacking;
+    private bool isTeleporting;
+    private bool spriteWasEnabledBeforeTeleport;
+    private Coroutine teleportCoroutine;
 
     private KeyCode jumpKey, downKey, leftKey, rightKey;
     private KeyCode attackKey, skill1Key, skill2Key, skill3Key, raseganKey, dashKey;
@@ -105,6 +131,16 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         if (anim.GetBool("isDead")) return;
+        if (isTeleporting) return;
+
+        if (Input.GetKeyDown(jumpKey))
+        {
+            jumpBufferCounter = jumpBufferTime;
+        }
+        else if (knockbackTimer <= 0f)
+        {
+            jumpBufferCounter = Mathf.Max(0f, jumpBufferCounter - Time.deltaTime);
+        }
 
         // Giảm thời gian đếm ngược
         if (invulTimer > 0) invulTimer -= Time.deltaTime;
@@ -119,11 +155,15 @@ public class PlayerController : MonoBehaviour
         if (knockbackTimer > 0) return;
 
         AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
-        isAttacking = stateInfo.IsTag("Attack") || stateInfo.IsName("Skill 1") ||
-                      stateInfo.IsName("Skill 2") || stateInfo.IsName("Skill 3") ||
-                      stateInfo.IsName("Rasegan");
+        bool isInTransition = anim.IsInTransition(0);
+        AnimatorStateInfo nextStateInfo = isInTransition
+            ? anim.GetNextAnimatorStateInfo(0)
+            : stateInfo;
+        isAttacking = IsAttackOrSkillState(stateInfo) ||
+                      (isInTransition && IsAttackOrSkillState(nextStateInfo));
+        bool isLunging = Time.time < skillLungeEndTime;
 
-        if (!isAttacking)
+        if (!isAttacking && !isLunging)
         {
             HandleCombatAndSkills();
             HandleMovement();
@@ -131,15 +171,124 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-            float smoothDeceleration = Mathf.Lerp(rb.linearVelocity.x, 0f, 10f * Time.deltaTime);
-            rb.linearVelocity = new Vector2(smoothDeceleration, rb.linearVelocity.y);
+            if (isLunging)
+            {
+                rb.linearVelocity = new Vector2(skillLungeDirection * skillLungeSpeed, rb.linearVelocity.y);
+            }
+            else
+            {
+                float smoothDeceleration = Mathf.Lerp(rb.linearVelocity.x, 0f, 10f * Time.deltaTime);
+                rb.linearVelocity = new Vector2(smoothDeceleration, rb.linearVelocity.y);
+            }
 
-            if (Input.GetKeyDown(attackKey) && canReceiveInput)
+            if (isAttacking && Input.GetKeyDown(attackKey) && canReceiveInput)
             {
                 inputReceived = true;
                 canReceiveInput = false;
             }
         }
+    }
+
+    private bool IsSkill3State(AnimatorStateInfo stateInfo)
+    {
+        return stateInfo.IsName("Skill 3");
+    }
+
+    private bool IsAttackOrSkillState(AnimatorStateInfo stateInfo)
+    {
+        return stateInfo.IsTag("Attack") || stateInfo.IsName("Skill 1") ||
+               stateInfo.IsName("Skill 2") || IsSkill3State(stateInfo) ||
+               stateInfo.IsName("Rasegan");
+    }
+
+    public void StartSkillLunge()
+    {
+        skillLungeDirection = Mathf.Sign(transform.localScale.x);
+        skillLungeEndTime = Time.time + skillLungeDuration;
+    }
+
+    public void StartSkill3Lunge()
+    {
+        StartSkill3Teleport();
+    }
+
+    public void StartSkillTeleport()
+    {
+        StartTeleport(skillTeleportDistance, skillTeleportSpeed);
+    }
+
+    public void StartSkill3Teleport()
+    {
+        StartTeleport(skill3TeleportDistance, skill3TeleportSpeed);
+    }
+
+    private void StartTeleport(float distance, float speed)
+    {
+        if (isTeleporting) return;
+
+        if (distance <= 0f || speed <= 0f)
+        {
+            Debug.LogWarning("Teleport distance and speed must be greater than zero.", this);
+            return;
+        }
+
+        skillLungeEndTime = 0f;
+        teleportCoroutine = StartCoroutine(TeleportRoutine(distance, speed));
+    }
+
+    private System.Collections.IEnumerator TeleportRoutine(float distance, float speed)
+    {
+        isTeleporting = true;
+        spriteWasEnabledBeforeTeleport = spriteRend != null && spriteRend.enabled;
+        if (spriteRend != null) spriteRend.enabled = false;
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+
+        float directionSign = transform.localScale.x < 0f ? -1f : 1f;
+        Vector2 direction = Vector2.right * directionSign;
+        float travelDistance = distance;
+
+        ContactFilter2D contactFilter = new ContactFilter2D();
+        contactFilter.SetLayerMask(Physics2D.GetLayerCollisionMask(gameObject.layer));
+        contactFilter.useTriggers = false;
+        RaycastHit2D[] hits = new RaycastHit2D[16];
+        int hitCount = rb.Cast(direction, contactFilter, hits, travelDistance);
+        for (int i = 0; i < hitCount; i++)
+        {
+            if (hits[i].collider != null && Mathf.Abs(hits[i].normal.x) > 0.5f)
+            {
+                travelDistance = Mathf.Min(travelDistance, Mathf.Max(0f, hits[i].distance - 0.02f));
+            }
+        }
+
+        float distanceMoved = 0f;
+        WaitForFixedUpdate waitForFixedUpdate = new WaitForFixedUpdate();
+        while (distanceMoved < travelDistance)
+        {
+            float stepDistance = Mathf.Min(speed * Time.fixedDeltaTime, travelDistance - distanceMoved);
+            rb.position += direction * stepDistance;
+            distanceMoved += stepDistance;
+            yield return waitForFixedUpdate;
+        }
+
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        FinishTeleport();
+    }
+
+    private void FinishTeleport()
+    {
+        isTeleporting = false;
+        if (spriteRend != null) spriteRend.enabled = spriteWasEnabledBeforeTeleport;
+        teleportCoroutine = null;
+    }
+
+    private void CancelTeleport()
+    {
+        if (teleportCoroutine != null)
+        {
+            StopCoroutine(teleportCoroutine);
+        }
+
+        FinishTeleport();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -161,6 +310,7 @@ public class PlayerController : MonoBehaviour
 
         if (anim.GetBool("isDead")) return;
         if (isBlocking) return;
+        if (isTeleporting) CancelTeleport();
 
         currentHealth -= damage;
         invulTimer = invulnerableTime;
@@ -230,13 +380,11 @@ public class PlayerController : MonoBehaviour
 
     void CheckGroundStatus()
     {
-        bool wasGrounded = isGrounded;
-
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         anim.SetBool("isGrounded", isGrounded);
         anim.SetFloat("yVelocity", rb.linearVelocity.y);
 
-        if (isGrounded && !wasGrounded && rb.linearVelocity.y <= 0.1f)
+        if (isGrounded && rb.linearVelocity.y <= 0.1f)
         {
             jumpCount = 0;
         }
@@ -244,13 +392,13 @@ public class PlayerController : MonoBehaviour
 
     void HandleJump()
     {
-        if (Input.GetKeyDown(jumpKey) && jumpCount < maxJumps)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            jumpCount++;
-            anim.SetTrigger("JumpTrigger");
-        }
+        if (jumpBufferCounter <= 0f || jumpCount >= maxJumps)
+            return;
+
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        jumpCount++;
+        jumpBufferCounter = 0f;
+        anim.SetTrigger("JumpTrigger");
     }
 
     void HandleDefense()
@@ -366,6 +514,7 @@ public class PlayerController : MonoBehaviour
 
     public void Die()
     {
+        if (isTeleporting) CancelTeleport();
         anim.SetBool("isDead", true);
         rb.linearVelocity = Vector2.zero;
         this.enabled = false; // Tắt script 
